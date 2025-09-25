@@ -39,9 +39,7 @@ Welcome to the **M-Lab CARTE AI Workshop 2025** — a comprehensive 4-day progra
 
 ## Workshop Overview
 
-This comprehensive 4-day program serves as your introduction to the rapidly evolving world of artificial intelligence and its transformative business applications. Whether you're new to AI or looking to deepen your understanding, this workshop provides a structured overview of key technologies, from foundational machine learning concepts to cutting-edge agentic AI systems.
-
-Through a carefully designed curriculum combining expert lectures, hands-on laboratories, and strategic planning sessions, you'll gain both the technical knowledge and practical skills needed to identify AI opportunities within your organization and develop concrete implementation strategies.
+This program covers AI fundamentals through advanced agentic AI systems, with practical applications for business implementation. The workshop combines lectures, labs, and strategic planning sessions to develop technical understanding and implementation strategies.
 
 ### Learning Objectives
 
@@ -77,7 +75,7 @@ Work with interactive labs, coding sessions, and business case studies
 
 | **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
 |----------|-------------|----------------|---------------|---------------|
-| **09:00** | **Lecture A:** Comprehensive AI Landscape | ML • Deep Learning • Generative AI • Autonomous Agents | | |
+| **09:00** | **Lecture A:** AI Landscape Overview | ML • Deep Learning • Generative AI • Autonomous Agents | | |
 | **10:45** | **Lab A:** Exploratory Data Analysis | Data insights • Pattern recognition • Business intelligence | | |
 | **13:00** | **Lecture B:** Neural Networks & Optimization | Architecture fundamentals • Training strategies • Performance optimization | | |
 | **14:45** | **Lab B:** Advanced Data Processing | Data preprocessing • Feature engineering • Quality assurance | | |
