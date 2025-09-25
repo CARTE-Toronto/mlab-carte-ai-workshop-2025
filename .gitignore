@@ -1,0 +1,8 @@
+mlab-carte-ai-workshop-2025.md
+
+# Jekyll/GitHub Pages
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+agents.md

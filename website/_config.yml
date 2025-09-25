@@ -1,0 +1,37 @@
+# GitHub Pages configuration for M-Lab CARTE AI Workshop 2025
+title: M-Lab CARTE AI Workshop 2025
+description: 4-day intensive AI workshop for M-Lab companies - materials and resources
+author: Centre for Analytics and AI Engineering (CARTE), University of Toronto
+
+# Use the minimal theme for a clean, simple look
+theme: minima
+
+# Plugin configuration
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Site settings
+baseurl: "/mlab-carte-ai-workshop-2025/website"
+url: "https://carte-toronto.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Navigation
+header_pages:
+  - index.md
+
+# Social links (optional - can be customized)
+social:
+  name: CARTE
+  links:
+    - https://carte.utoronto.ca
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - .gitignore
+  - agents.md
+  - mlab-carte-ai-workshop-2025.md
