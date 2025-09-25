@@ -63,6 +63,11 @@ $content-width: 1200px;              // widen overall site content width
   align-items: center;
   gap: 8px;
 }
+.site-header .site-title .site-logo {
+  height: 28px;
+  width: auto;
+  display: inline-block;
+}
 .site-header .page-link:hover,
 .site-header .site-title:hover {
   color: $p7406; // yellow accent, good contrast on blue background
