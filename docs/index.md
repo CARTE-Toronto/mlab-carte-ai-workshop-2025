@@ -6,9 +6,37 @@ title: Home
 # M-Lab CARTE AI Workshop 2025
 ## Transforming Business Through AI Excellence
 
+<style>
+/* simple left nav for in-page anchors */
+.page-wrap { display: flex; gap: 24px; }
+.page-toc { min-width: 220px; border-right: 1px solid #e5e5e5; padding-right: 16px; }
+.page-toc h3 { margin-top: 0; font-size: 1rem; }
+.page-toc ul { list-style: none; padding-left: 0; margin: 8px 0; }
+.page-toc li { margin: 6px 0; }
+.page-content-body { flex: 1; }
+@media (max-width: 900px) {
+  .page-wrap { flex-direction: column; }
+  .page-toc { border-right: none; border-bottom: 1px solid #e5e5e5; padding-bottom: 12px; }
+}
+</style>
+
+<div class="page-wrap">
+  <nav class="page-toc" aria-label="Page navigation">
+    <h3>Jump to</h3>
+    <ul>
+      <li><a href="#day-1">Day 1 — Tuesday, Oct 14</a></li>
+      <li><a href="#day-2">Day 2 — Wednesday, Oct 15</a></li>
+      <li><a href="#day-3">Day 3 — Thursday, Oct 16</a></li>
+      <li><a href="#day-4">Day 4 — Friday, Oct 17</a></li>
+    </ul>
+  </nav>
+
+  <div class="page-content-body">
+
 Welcome to the **M-Lab CARTE AI Workshop 2025** — a comprehensive 4-day program covering artificial intelligence and its business applications.
 
 **Workshop Dates:** October 14-17, 2025 (Tuesday-Friday)  
+**Location:** 800 Bay Street, Second Floor, Room 229A  
 **Presented by:** [Centre for Analytics and AI Engineering (CARTE)](https://carte.utoronto.ca), University of Toronto  
 **Designed for:** Selected employees of M-Lab companies
 
@@ -53,7 +81,7 @@ This workshop builds on our previous programs. Materials from our [**2024 Mitsub
 
 ---
 
-### **Day 1: AI Foundation & Data Mastery**
+### **Day 1: AI Foundation & Data Mastery** — Tuesday, October 14, 2025 {#day-1}
 *Building foundational knowledge for advanced AI applications*
 
 | **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
@@ -65,7 +93,7 @@ This workshop builds on our previous programs. Materials from our [**2024 Mitsub
 
 **Day 1 Outcome:** Learn foundational concepts and data handling techniques for modern AI applications.
 
-### **Day 2: Generative AI**
+### **Day 2: Generative AI** — Wednesday, October 15, 2025 {#day-2}
 *Large language models and multimodal AI systems*
 
 | **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
@@ -79,7 +107,7 @@ This workshop builds on our previous programs. Materials from our [**2024 Mitsub
 
 ---
 
-### **Day 3: Agentic AI & Technology Evaluation**
+### **Day 3: Agentic AI & Technology Evaluation** — Thursday, October 16, 2025 {#day-3}
 *Autonomous systems and technology assessment*
 
 | **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
@@ -88,20 +116,11 @@ This workshop builds on our previous programs. Materials from our [**2024 Mitsub
 | **10:45–12:00** | **Hands-On Lab E:** LangChain Hub Agent Development | No-code agent creation • Workflow automation • Customer service AI | | |
 | **13:00–16:30** | **Specialized Workshop:** Robotics & AI | **Led by Professor Chi-Guhn Lee and his research team** | | |
 
-#### **Featured Expert: Eva Lau**
-**Co-Founder & General Partner, [Two Small Fish Ventures](https://twosmallfish.com/) | UofT Engineering Alumna**
-
-Eva Lau is an entrepreneur (co-founder of Wattpad) and investor. This presentation, developed with her partners **Brandon Zhao** (AI/ML infrastructure) and **Albert Chen** (semiconductors & hardware), will cover:
-- **Investment Evaluation**: How VCs assess AI startups and technologies
-- **Technical Understanding**: LLMs and their applications from an infrastructure perspective  
-- **Market Analysis**: Identifying AI technologies and market opportunities
-- **Assessment Tools**: Practical frameworks for evaluating AI technology investments
-
 **Day 3 Outcome:** Learn to evaluate AI startups and build autonomous agents for business applications.
 
 ---
 
-### **Day 4: Implementation & Action Planning**
+### **Day 4: Implementation & Action Planning** — Friday, October 17, 2025 {#day-4}
 *Converting AI knowledge into business strategies*
 
 | **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
@@ -114,8 +133,6 @@ Eva Lau is an entrepreneur (co-founder of Wattpad) and investor. This presentati
 **Day 4 Outcome:** Create a concrete 90-day pilot plan with expert guidance for AI initiatives in your organization.
 
 ---
-
-## Workshop Resources & Materials
 
 ### **Workshop Materials**
 **Learning materials developed by CARTE**
@@ -155,3 +172,6 @@ Eva Lau is an entrepreneur (co-founder of Wattpad) and investor. This presentati
 
 **Questions or Technical Support?**  
 Open an issue in this repository or contact our team directly.
+
+  </div>
+</div>
