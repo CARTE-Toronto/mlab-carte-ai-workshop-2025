@@ -76,14 +76,28 @@ $content-width: 1200px;              // widen overall site content width
 }
 
 /* Content links */
-a {
+a,
+a:link {
   color: $link-color;
-  text-decoration-color: rgba($link-color, 0.35);
+  text-decoration: underline;
+  text-decoration-color: rgba($link-color, 0.45);
+  text-underline-offset: 2px;
+  text-decoration-thickness: 1.5px;
+}
+a:visited {
+  color: darken($link-color, 12%);
+  text-decoration-color: rgba(darken($link-color, 12%), 0.45);
 }
 a:hover,
 a:focus {
   color: $link-hover-color;
-  text-decoration-color: rgba($link-hover-color, 0.5);
+  text-decoration-color: rgba($link-hover-color, 0.6);
+}
+
+/* Do not underline links in the site header */
+.site-header .site-title,
+.site-header .page-link {
+  text-decoration: none;
 }
 
 /* Focus styles for accessibility */
