@@ -156,24 +156,18 @@ Work with interactive labs, coding sessions, and business case studies
 [alex.olson@utoronto.ca](mailto:alex.olson@utoronto.ca)  
 *Leading AI education initiatives and industry partnerships*
 
-**Centre for Analytics and AI Engineering (CARTE)**  
-[carte.utoronto.ca](https://carte.utoronto.ca)  
-*University of Toronto AI research and education center*
-
-**Questions or Technical Support?**  
-Open an issue in this repository or contact our team directly.
-
----
-
-## Lab Instructors & Content Developers
-
 **Rahul Patel** — *Lab Instructor & Content Developer*  
 [rahulptel.github.io](https://rahulptel.github.io/)  
+[rm.patel@mail.utoronto.ca](mailto:rm.patel@mail.utoronto.ca)  
 *PhD Student, Mechanical and Industrial Engineering, University of Toronto & Vector Institute*
 
 **Nakul Upadhya** — *Lab Instructor & Content Developer*  
 [upadhyan.github.io](https://upadhyan.github.io/index.html)  
+[nakul.upadhya@mail.utoronto.ca](mailto:nakul.upadhya@mail.utoronto.ca)  
 *PhD Student, Operations Research & Information Engineering, University of Toronto*
 
+**Centre for Analytics and AI Engineering (CARTE)**  
+[carte.utoronto.ca](https://carte.utoronto.ca)  
+*University of Toronto AI research and education center*
   </div>
 </div>
