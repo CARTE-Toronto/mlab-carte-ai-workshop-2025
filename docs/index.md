@@ -31,7 +31,7 @@ layout: default
 
 Welcome to the **M-Lab CARTE AI Workshop 2025** — a comprehensive 4-day program covering artificial intelligence and its business applications.
 
-**Workshop Dates:** Tuesday, October 14 to Friday, October 17 2025
+**Workshop Dates:** Tuesday, October 14 to Friday, October 17 2025  
 **Location:** [800 Bay Street](https://maps.app.goo.gl/aStqyNu9qWBmrM7f9), Second Floor, Room 229A  
 **Presented by:** [Centre for Analytics and AI Engineering (CARTE)](https://carte.utoronto.ca), University of Toronto  
 
@@ -39,7 +39,9 @@ Welcome to the **M-Lab CARTE AI Workshop 2025** — a comprehensive 4-day progra
 
 ## Workshop Overview
 
-This program covers AI fundamentals through advanced agentic AI systems, with practical applications for business implementation. The workshop combines lectures, Laboratories, and strategic planning sessions to develop technical understanding and implementation strategies.
+This comprehensive 4-day program serves as your introduction to the rapidly evolving world of artificial intelligence and its transformative business applications. Whether you're new to AI or looking to deepen your understanding, this workshop provides a structured overview of key technologies, from foundational machine learning concepts to cutting-edge agentic AI systems.
+
+Through a carefully designed curriculum combining expert lectures, hands-on laboratories, and strategic planning sessions, you'll gain both the technical knowledge and practical skills needed to identify AI opportunities within your organization and develop concrete implementation strategies.
 
 ### Learning Objectives
 
