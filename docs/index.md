@@ -32,7 +32,7 @@ layout: default
 Welcome to the **M-Lab CARTE AI Workshop 2025** — a comprehensive 4-day program covering artificial intelligence and its business applications.
 
 **Workshop Dates:** October 14-17, 2025 (Tuesday-Friday)  
-**Location:** 800 Bay Street, Second Floor, Room 229A  
+**Location:** [800 Bay Street](https://maps.app.goo.gl/aStqyNu9qWBmrM7f9), Second Floor, Room 229A  
 **Presented by:** [Centre for Analytics and AI Engineering (CARTE)](https://carte.utoronto.ca), University of Toronto  
 **Designed for:** Selected employees of M-Lab companies
 
@@ -55,12 +55,6 @@ Develop 90-day pilot plans for your organization
 
 **Practice with Real Tools**  
 Work with interactive labs, coding sessions, and business case studies
-
----
-
-## Building on Excellence
-
-This workshop builds on our previous programs. Materials from our [**2024 Mitsubishi AI Workshop**](https://github.com/CARTE-Toronto/mitsubishi-workshop) are available for review.
 
 ---
 
@@ -168,6 +162,18 @@ This workshop builds on our previous programs. Materials from our [**2024 Mitsub
 
 **Questions or Technical Support?**  
 Open an issue in this repository or contact our team directly.
+
+---
+
+## Lab Instructors & Content Developers
+
+**Rahul Patel** — *Lab Instructor & Content Developer*  
+[rahulptel.github.io](https://rahulptel.github.io/)  
+*PhD Student, Mechanical and Industrial Engineering, University of Toronto & Vector Institute*
+
+**Nakul Upadhya** — *Lab Instructor & Content Developer*  
+[upadhyan.github.io](https://upadhyan.github.io/index.html)  
+*PhD Student, Operations Research & Information Engineering, University of Toronto*
 
   </div>
 </div>
