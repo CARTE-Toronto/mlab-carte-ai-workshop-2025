@@ -31,7 +31,7 @@ title: Home
     </ul>
   </nav>
 
-  <div class="page-content-body">
+  <div class="page-content-body" markdown="1">
 
 Welcome to the **M-Lab CARTE AI Workshop 2025** — a comprehensive 4-day program covering artificial intelligence and its business applications.
 
