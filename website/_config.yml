@@ -12,7 +12,7 @@ plugins:
   - jekyll-sitemap
 
 # Site settings
-baseurl: "/mlab-carte-ai-workshop-2025/website"
+baseurl: "/mlab-carte-ai-workshop-2025"
 url: "https://carte-toronto.github.io"
 
 # Build settings
