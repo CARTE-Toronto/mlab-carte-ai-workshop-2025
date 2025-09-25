@@ -19,14 +19,14 @@ $black: #000000;
 /* Use Trade Gothic fonts provided in assets */
 @font-face {
   font-family: 'Trade Gothic';
-  src: url("{{ '/assets/trade-gothic-lt-std.woff' | relative_url }}") format('woff');
+  src: url('/mlab-carte-ai-workshop-2025/assets/trade-gothic-lt-std.woff') format('woff');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Trade Gothic';
-  src: url("{{ '/assets/trade-gothic-lt-bold.woff' | relative_url }}") format('woff');
+  src: url('/mlab-carte-ai-workshop-2025/assets/trade-gothic-lt-bold.woff') format('woff');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -66,7 +66,7 @@ $base-font-family: 'Trade Gothic', -apple-system, BlinkMacSystemFont, "Segoe UI"
   display: inline-block;
   width: 28px;
   height: 28px;
-  background-image: url("{{ '/assets/Centre for Analytics and Artificial Intelligence Engineering (CARTE) Transparent.png' | relative_url }}");
+  background-image: url('/mlab-carte-ai-workshop-2025/assets/Centre%20for%20Analytics%20and%20Artificial%20Intelligence%20Engineering%20%28CARTE%29%20Transparent.png');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
