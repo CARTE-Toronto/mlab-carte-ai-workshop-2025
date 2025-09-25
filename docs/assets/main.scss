@@ -1,3 +1,6 @@
+---
+---
+
 // Color palette
 $uoft-blue: #1E3765;      // Primary
 $p633: #007FA3;           // Secondary - link
@@ -103,7 +106,7 @@ a:focus {
 }
 
 /* Focus styles for accessibility */
-:focus {
+::focus {
   outline: 3px solid $p2985;
   outline-offset: 2px;
 }
