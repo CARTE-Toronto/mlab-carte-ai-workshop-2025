@@ -101,7 +101,7 @@ Work with interactive labs, coding sessions, and business case studies
 
 | **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
 |----------|-------------|----------------|---------------|---------------|
-| **09:00** | **Industry Expert Presentation:** AI Technology Evaluation & Investment | **Led by Eva Lau** (Co-Founder & GP, [Two Small Fish Ventures](https://twosmallfish.com/)) | | |
+| **09:00** | **Industry Expert Presentation:** AI Technology Evaluation & Investment | **Led by Eva Lau** (Co-Founder & GP, [Two Small Fish Ventures](https://twosmallfish.vc/)) | | |
 | **10:45** | **Lab E:** LangChain Hub Agent Development | No-code agent creation • Workflow automation • Customer service AI | | |
 | **13:00** | **Specialized Workshop:** Robotics & AI | **Led by Professor Chi-Guhn Lee and his research team** | | |
 
@@ -114,24 +114,12 @@ Work with interactive labs, coding sessions, and business case studies
 
 | **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
 |----------|-------------|----------------|---------------|---------------|
-| **09:00** | **Lecture G:** Agentic Systems Architecture | Multi-agent coordination • System design • Scalability considerations | | |
-| **10:45** | **Lab G:** AI Safety & Performance Metrics | Evaluation frameworks • Risk assessment • Quality assurance | | |
-| **13:00** | **Lecture H:** Multi-Agent System Orchestration | Coordination patterns • Communication protocols • Complex problem solving | | |
+| **09:00** | **Lecture F:** Agentic Systems Architecture | Multi-agent coordination • System design • Scalability considerations | | |
+| **10:45** | **Lab F:** AI Safety & Performance Metrics | Evaluation frameworks • Risk assessment • Quality assurance | | |
+| **13:00** | **Lecture G:** Multi-Agent System Orchestration | Coordination patterns • Communication protocols • Complex problem solving | | |
 | **14:45** | **Action Clinic:** 90-Day Implementation Roadmap | Strategy development • Team feedback • Executive presentation prep | | |
 
 **Day 4 Outcome:** Create a concrete 90-day pilot plan with expert guidance for AI initiatives in your organization.
-
----
-
-### **Workshop Materials**
-**Learning materials developed by CARTE**
-
-| **Resource Type** | **What You'll Get** | **Availability** |
-|-------------------|--------------------|--------------------|
-| **Lecture Slides** | Presentations with current research insights | Available as sessions are delivered |
-| **Interactive Labs** | Jupyter notebooks for Google Colab | Direct links provided |
-| **Expert Presentations** | Materials from industry speakers | Shared after presentations |
-| **Planning Templates** | 90-day pilot planning frameworks | Available for Day 4 sessions |
 
 ---
 
@@ -149,8 +137,6 @@ Work with interactive labs, coding sessions, and business case studies
 
 ## Expert Support & Contact
 
-**Workshop Leadership Team**
-
 **Alex Olson** — *Workshop Director*  
 [alex.olson@utoronto.ca](mailto:alex.olson@utoronto.ca)  
 *Leading AI education initiatives and industry partnerships*
@@ -158,15 +144,12 @@ Work with interactive labs, coding sessions, and business case studies
 **Rahul Patel** — *Lab Instructor & Content Developer*  
 [rahulptel.github.io](https://rahulptel.github.io/)  
 [rm.patel@mail.utoronto.ca](mailto:rm.patel@mail.utoronto.ca)  
-*PhD Student, Mechanical and Industrial Engineering, University of Toronto & Vector Institute*
+*PhD Candidate, Stochastic & Multi-Objective Optimization, University of Toronto & Vector Institute*
 
 **Nakul Upadhya** — *Lab Instructor & Content Developer*  
 [upadhyan.github.io](https://upadhyan.github.io/index.html)  
 [nakul.upadhya@mail.utoronto.ca](mailto:nakul.upadhya@mail.utoronto.ca)  
-*PhD Student, Operations Research & Information Engineering, University of Toronto*
+*PhD Candidate, Interpretable Sequence Models, University of Toronto*
 
-**Centre for Analytics and AI Engineering (CARTE)**  
-[carte.utoronto.ca](https://carte.utoronto.ca)  
-*University of Toronto AI research and education center*
   </div>
 </div>
