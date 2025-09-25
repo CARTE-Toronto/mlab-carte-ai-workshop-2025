@@ -1,6 +1,6 @@
 ---
 layout: default
-title: M-Lab CARTE AI Workshop 2025
+title: Home
 ---
 
 # M-Lab CARTE AI Workshop 2025

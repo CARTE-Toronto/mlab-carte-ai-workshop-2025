@@ -3,6 +3,9 @@ title: M-Lab CARTE AI Workshop 2025
 description: 4-day intensive AI workshop for M-Lab companies - materials and resources
 author: Centre for Analytics and AI Engineering (CARTE), University of Toronto
 
+# Configuration
+show_excerpts: false
+
 # Use the minimal theme for a clean, simple look
 theme: minima
 
