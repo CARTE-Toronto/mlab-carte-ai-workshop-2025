@@ -1,10 +1,6 @@
 ---
 layout: default
-title: Home
 ---
-
-# M-Lab CARTE AI Workshop 2025
-## Transforming Business Through AI Excellence
 
 <style>
 /* simple left nav for in-page anchors */
