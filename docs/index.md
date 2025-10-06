@@ -65,7 +65,7 @@ Work with interactive labs, coding sessions, and business case studies
 
 | **Preparation Activity** | **Purpose** |
 |---------------------------|-------------|
-| Review [2024 Workshop Materials](https://github.com/CARTE-Toronto/mitsubishi-workshop) | Build foundational understanding |
+| Review [2024 Workshop Materials](https://2024.mlab.carte.training/) | Build foundational understanding |
 | Complete pre-workshop assessment | Tailor content to your experience level |
 
 ---
