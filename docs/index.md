@@ -59,17 +59,6 @@ Work with interactive labs, coding sessions, and business case studies
 
 ## Workshop Schedule
 
-### Pre-Workshop Preparation (Self-Paced)
-
-**Preparation to enhance workshop learning**
-
-| **Preparation Activity** | **Purpose** |
-|---------------------------|-------------|
-| Review [2024 Workshop Materials](https://2024.mlab.carte.training/) | Build foundational understanding |
-| Complete pre-workshop assessment | Tailor content to your experience level |
-
----
-
 ### **Day 1: AI Foundation & Data Mastery** — Tuesday, October 14, 2025 {#day-1}
 *Building foundational knowledge for advanced AI applications*
 
@@ -87,8 +76,8 @@ Work with interactive labs, coding sessions, and business case studies
 
 | **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
 |----------|-------------|----------------|---------------|---------------|
-| **09:00** | **Lecture C:** Large Language Models Mastery | Transformer architecture • Training methodologies • Enterprise deployment | | |
-| **10:45** | **Lab C:** LLM Prompt Engineering & RAG | Effective prompting • Retrieval-augmented generation • Business integration | | |
+| **09:00** | **Lecture C:** Large Language Models | Transformer architecture • Training methodologies • Enterprise deployment | | |
+| **10:45** | **Lab C:** Visual Workflow Building | System prompts • Reasoning models  • Retrieval-augmented generation | | |
 | **13:00** | **Lecture D:** Beyond Text — Multimodal AI | Image • Video • Audio generation • Cross-modal applications | | |
 | **14:45** | **Lab D:** Multimodal Content Creation | Creative AI applications • Business use cases • Technical implementation | | |
 
@@ -102,7 +91,7 @@ Work with interactive labs, coding sessions, and business case studies
 | **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
 |----------|-------------|----------------|---------------|---------------|
 | **09:00** | **Industry Expert Presentation:** AI Technology Evaluation & Investment | **Led by Eva Lau** (Co-Founder & GP, [Two Small Fish Ventures](https://twosmallfish.vc/)) | | |
-| **10:45** | **Lab E:** LangChain Hub Agent Development | No-code agent creation • Workflow automation • Customer service AI | | |
+| **10:45** | **Lab E:** Advanced Agents | No-code agent creation • Workflow automation • Agent routing | | |
 | **13:00** | **Specialized Workshop:** Robotics & AI | **Led by Professor Chi-Guhn Lee and his research team** | | |
 
 **Day 3 Outcome:** Learn to evaluate AI startups and build autonomous agents for business applications.
@@ -115,7 +104,7 @@ Work with interactive labs, coding sessions, and business case studies
 | **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
 |----------|-------------|----------------|---------------|---------------|
 | **09:00** | **Lecture F:** Agentic Systems Architecture | Multi-agent coordination • System design • Scalability considerations | | |
-| **10:45** | **Lab F:** AI Safety & Performance Metrics | Evaluation frameworks • Risk assessment • Quality assurance | | |
+| **10:45** | **Lab F:** AI Safety & Ethics | Evaluation frameworks • Risk assessment • Quality assurance | | |
 | **13:00** | **Lecture G:** Multi-Agent System Orchestration | Coordination patterns • Communication protocols • Complex problem solving | | |
 | **14:45** | **Action Clinic:** 90-Day Implementation Roadmap | Strategy development • Team feedback • Executive presentation prep | | |
 
