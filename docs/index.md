@@ -64,7 +64,7 @@ Work with interactive labs, coding sessions, and business case studies
 
 | **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
 |----------|-------------|----------------|---------------|---------------|
-| **09:00** | **Lecture A:** AI Landscape Overview | ML • Deep Learning • Generative AI • Autonomous Agents | | |
+| **09:00** | **Lecture A:** AI Landscape Overview | ML • Deep Learning • Generative AI • Autonomous Agents | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_a_ai_landscape_overview.pdf) | |
 | **10:45** | **Lab A:** Exploratory Data Analysis | Data insights • Pattern recognition • Business intelligence | | |
 | **13:00** | **Lecture B:** Neural Networks & Optimization | Architecture fundamentals • Training strategies • Performance optimization | | |
 | **14:45** | **Lab B:** Advanced Data Processing | Data preprocessing • Feature engineering • Quality assurance | | |
@@ -77,7 +77,7 @@ Work with interactive labs, coding sessions, and business case studies
 | **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
 |----------|-------------|----------------|---------------|---------------|
 | **09:00** | **Lecture C:** Large Language Models | Transformer architecture • Training methodologies • Enterprise deployment | | |
-| **10:45** | **Lab C:** Visual Workflow Building | System prompts • Reasoning models  • Retrieval-augmented generation | | |
+| **10:45** | **Lab C:** Visual Workflow Building | System prompts • Reasoning models  • Retrieval-augmented generation | [[1]](#ref1) | |
 | **13:00** | **Lecture D:** Beyond Text — Multimodal AI | Image • Video • Audio generation • Cross-modal applications | | |
 | **14:45** | **Lab D:** Multimodal Content Creation | Creative AI applications • Business use cases • Technical implementation | | |
 
@@ -139,6 +139,12 @@ Work with interactive labs, coding sessions, and business case studies
 [upadhyan.github.io](https://upadhyan.github.io/index.html)  
 [nakul.upadhya@mail.utoronto.ca](mailto:nakul.upadhya@mail.utoronto.ca)  
 *PhD Candidate, Interpretable Sequence Models, University of Toronto*
+
+---
+
+## References
+
+<a id="ref1"></a>[1] Lab C slides are partly adapted from [FlowiseAI: Agentic RAG Tutorial](https://docs.flowiseai.com/tutorials/agentic-rag)
 
   </div>
 </div>
