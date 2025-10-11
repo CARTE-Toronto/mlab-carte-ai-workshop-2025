@@ -103,6 +103,21 @@ Work with interactive labs, coding sessions, and business case studies
 
 ---
 
+<div id="flowise-platform" style="margin: 24px 0; padding: 20px; background: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px;">
+<h3 style="margin-top: 0; color: #424242;">🔗 Flowise Platform Access</h3>
+<p>For <strong>Lab C</strong> (Visual Workflow Building) and <strong>Lab E</strong> (Advanced Agents), you will use the Flowise no-code AI workflow platform.</p>
+<p><strong>⚠️ Please use the Flowise instance assigned to your table number:</strong></p>
+<ul style="margin: 8px 0; padding-left: 24px;">
+<li><strong>Table 1:</strong> <a href="https://flowise1.carte.training/signin" target="_blank">flowise1.carte.training</a></li>
+<li><strong>Table 2:</strong> <a href="https://flowise2.carte.training/signin" target="_blank">flowise2.carte.training</a></li>
+<li><strong>Table 3:</strong> <a href="https://flowise3.carte.training/signin" target="_blank">flowise3.carte.training</a></li>
+<li><strong>Table 4:</strong> <a href="https://flowise4.carte.training/signin" target="_blank">flowise4.carte.training</a></li>
+<li><strong>Table 5:</strong> <a href="https://flowise5.carte.training/signin" target="_blank">flowise5.carte.training</a></li>
+</ul>
+</div>
+
+---
+
 ## Workshop Schedule
 
 ### **Day 1: AI Foundation & Data Mastery** — Tuesday, October 14, 2025 {#day-1}
@@ -123,21 +138,9 @@ Work with interactive labs, coding sessions, and business case studies
 | **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
 |----------|-------------|----------------|---------------|---------------|
 | **09:00** | **Lecture C:** Large Language Models | Transformer architecture • Training methodologies • Enterprise deployment | | |
-| **10:45** | **Lab C:** Visual Workflow Building | System prompts • Reasoning models  • Retrieval-augmented generation | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_c_visual_workflow_building.pdf) • [Flowise Links](#lab-c-flowise) • [Prompt Template](#lab-c-prompt-template) • [[note]](#ref1) | |
+| **10:45** | **Lab C:** Visual Workflow Building | System prompts • Reasoning models  • Retrieval-augmented generation | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_c_visual_workflow_building.pdf) • [Flowise Platform](#flowise-platform) • [Prompt Template](#lab-c-prompt-template) • [[note]](#ref1) | |
 | **13:00** | **Lecture D:** Beyond Text — Multimodal AI | Image • Video • Audio generation • Cross-modal applications | | |
 | **14:45** | **Lab D:** Multimodal Content Creation | Creative AI applications • Business use cases • Technical implementation | | |
-
-<div id="lab-c-flowise" style="margin: 16px 0; padding: 12px; background: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px;">
-<strong>🔗 Lab C: Flowise Platform Access</strong><br>
-<em style="color: #856404;">⚠️ Please use the Flowise instance assigned to your table number:</em>
-<ul style="margin: 8px 0; padding-left: 24px;">
-<li><strong>Table 1:</strong> <a href="https://flowise1.carte.training/signin" target="_blank">flowise1.carte.training</a></li>
-<li><strong>Table 2:</strong> <a href="https://flowise2.carte.training/signin" target="_blank">flowise2.carte.training</a></li>
-<li><strong>Table 3:</strong> <a href="https://flowise3.carte.training/signin" target="_blank">flowise3.carte.training</a></li>
-<li><strong>Table 4:</strong> <a href="https://flowise4.carte.training/signin" target="_blank">flowise4.carte.training</a></li>
-<li><strong>Table 5:</strong> <a href="https://flowise5.carte.training/signin" target="_blank">flowise5.carte.training</a></li>
-</ul>
-</div>
 
 <div id="lab-c-prompt-template" style="margin: 16px 0; padding: 12px; background: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px;">
 <details>
@@ -157,7 +160,7 @@ Work with interactive labs, coding sessions, and business case studies
 | **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
 |----------|-------------|----------------|---------------|---------------|
 | **09:00** | **Industry Expert Presentation:** AI Technology Evaluation & Investment | **Led by Eva Lau** (Co-Founder & GP, [Two Small Fish Ventures](https://twosmallfish.vc/)) | | |
-| **10:45** | **Lab E:** Advanced Agents | No-code agent creation • Workflow automation • Agent routing | [Worksheet](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_e_agent_workflow_exercise.pdf) | |
+| **10:45** | **Lab E:** Advanced Agents | No-code agent creation • Workflow automation • Agent routing | [Worksheet](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_e_agent_workflow_exercise.pdf) • [Flowise Platform](#flowise-platform) | |
 | **13:00** | **Specialized Workshop:** Robotics & AI | **Led by Professor Chi-Guhn Lee and his research team** | | |
 
 **Day 3 Outcome:** Learn to evaluate AI startups and build autonomous agents for business applications.
