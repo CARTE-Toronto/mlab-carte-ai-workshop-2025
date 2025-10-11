@@ -71,10 +71,10 @@ Welcome to the **M-Lab CARTE AI Workshop 2025** — a comprehensive 4-day progra
 <li>You will receive a return SMS with your username and password (these stay the same throughout the workshop)</li>
 <li>Select the <strong>"eduroam"</strong> Wi-Fi network on your device</li>
 <li>Login using the credentials you received via SMS</li>
-<li>You now have Wi-Fi access on all three U of T campuses for the day</li>
+<li>You now have Wi-Fi access for the day</li>
 </ol>
 
-<p style="margin-bottom: 0;"><em>⚠️ Note: Each day you need to re-authorize access by texting the new daily passcode, but you will use the same username and password credentials throughout. The passcode is updated daily and can also be found on departmental electronic signage or by having a U of T faculty/staff member visit <a href="https://eva.eis.utoronto.ca" target="_blank">eva.eis.utoronto.ca</a> from the U of T network.</em></p>
+<p style="margin-bottom: 0;"><em>⚠️ Note: Each day you need to re-authorize access by texting the new daily passcode, but you will use the same username and password credentials throughout. </em></p>
 </div>
 
 ---
