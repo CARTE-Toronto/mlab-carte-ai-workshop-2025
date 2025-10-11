@@ -83,7 +83,7 @@ Work with interactive labs, coding sessions, and business case studies
 |----------|-------------|----------------|---------------|---------------|
 | **09:00** | **Lecture A:** AI Landscape Overview | ML • Deep Learning • Generative AI • Autonomous Agents | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_a_ai_landscape_overview.pdf) | |
 | **10:45** | **Lab A:** Exploratory Data Analysis | Data insights • Pattern recognition • Business intelligence | | |
-| **13:00** | **Lecture B:** Neural Networks & Optimization | Architecture fundamentals • Training strategies • Performance optimization | | |
+| **13:00** | **Lecture B:** Neural Networks & Optimization | Architecture fundamentals • Training strategies • Performance optimization | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_b_neural_networks_and_optimization.pdf) • [Neuron Visualizer](https://neuron.carte.training/) • [Gradient Descent Visualizer](https://gradient.carte.training/) | |
 | **14:45** | **Lab B:** Advanced Data Processing | Data preprocessing • Feature engineering • Quality assurance | | |
 
 **Day 1 Outcome:** Learn foundational concepts and data handling techniques for modern AI applications.
@@ -98,7 +98,7 @@ Work with interactive labs, coding sessions, and business case studies
 | **13:00** | **Lecture D:** Beyond Text — Multimodal AI | Image • Video • Audio generation • Cross-modal applications | | |
 | **14:45** | **Lab D:** Multimodal Content Creation | Creative AI applications • Business use cases • Technical implementation | | |
 
-<div id="lab-c-flowise" style="margin: 16px 0; padding: 12px; background: #fff3cd; border: 1px solid #ffc107; border-radius: 6px;">
+<div id="lab-c-flowise" style="margin: 16px 0; padding: 12px; background: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px;">
 <strong>🔗 Lab C: Flowise Platform Access</strong><br>
 <em style="color: #856404;">⚠️ Please use the Flowise instance assigned to your table number:</em>
 <ul style="margin: 8px 0; padding-left: 24px;">
