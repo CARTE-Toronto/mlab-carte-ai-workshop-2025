@@ -17,10 +17,9 @@ layout: default
 </style>
 
 <script>
-function copyLabCPrompt() {
+function copyLabCPrompt(btn) {
   const text = document.getElementById('lab-c-prompt').textContent;
   navigator.clipboard.writeText(text).then(function() {
-    const btn = event.target;
     const originalText = btn.textContent;
     btn.textContent = '✓ Copied!';
     btn.style.background = '#28a745';
@@ -103,7 +102,7 @@ Work with interactive labs, coding sessions, and business case studies
 <details>
 <summary style="cursor: pointer; font-weight: bold; margin-bottom: 8px;">📋 Lab C: System Prompt Template (click to expand)</summary>
 <pre id="lab-c-prompt" style="background: white; padding: 12px; border-radius: 4px; overflow-x: auto;">Given the user question and history, construct a short string that can be used for searching a document store. Only generate the query, no meta comments, no explanation Example: Question: what are the events happening today? Query: today's event Example: Question: how about the address? Query: business address of the shop Question: {{ question }} Query:</pre>
-<button onclick="copyLabCPrompt()" style="padding: 8px 16px; cursor: pointer; background: #0066cc; color: white; border: none; border-radius: 4px; font-size: 14px; font-weight: 500; margin-top: 8px;">📋 Copy to Clipboard</button>
+<button onclick="copyLabCPrompt(this)" style="padding: 8px 16px; cursor: pointer; background: #0066cc; color: white; border: none; border-radius: 4px; font-size: 14px; font-weight: 500; margin-top: 8px;">📋 Copy to Clipboard</button>
 </details>
 </div>
 
