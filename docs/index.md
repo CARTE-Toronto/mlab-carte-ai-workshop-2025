@@ -128,7 +128,7 @@ Work with interactive labs, coding sessions, and business case studies
 | **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
 |----------|-------------|----------------|---------------|---------------|
 | **09:00** | **Industry Expert Presentation:** AI Technology Evaluation & Investment | **Led by Eva Lau** (Co-Founder & GP, [Two Small Fish Ventures](https://twosmallfish.vc/)) | | |
-| **10:45** | **Lab E:** Advanced Agents | No-code agent creation • Workflow automation • Agent routing | | |
+| **10:45** | **Lab E:** Advanced Agents | No-code agent creation • Workflow automation • Agent routing | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_e_agent_workflow_exercise.pdf) | |
 | **13:00** | **Specialized Workshop:** Robotics & AI | **Led by Professor Chi-Guhn Lee and his research team** | | |
 
 **Day 3 Outcome:** Learn to evaluate AI startups and build autonomous agents for business applications.
