@@ -52,12 +52,10 @@ Welcome to the **M-Lab CARTE AI Workshop 2025** — a comprehensive 4-day progra
 **Location:** [800 Bay Street](https://maps.app.goo.gl/aStqyNu9qWBmrM7f9), Second Floor, Room 229A  
 **Presented by:** [Centre for Analytics and AI Engineering (CARTE)](https://carte.utoronto.ca), University of Toronto  
 
----
-
 <div style="margin: 24px 0; padding: 20px; background: #e3f2fd; border-left: 4px solid #1976d2; border-radius: 4px;">
 <details>
 <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em; color: #1565c0; margin-bottom: 12px;">
-📶 Wi-Fi Access for Visitors — Daily Code (Last Updated: [DATE GOES HERE]): <code style="background: white; padding: 4px 8px; border-radius: 3px; color: #d32f2f; font-size: 1.2em;">[PASSCODE]</code>
+Wi-Fi Access for Visitors — Daily Code (Last Updated: [DATE GOES HERE]): <code style="background: white; padding: 4px 8px; border-radius: 3px; color: #d32f2f; font-size: 1.2em;">[PASSCODE]</code>
 </summary>
 
 <p><strong>Network:</strong> eduroam (via eduroam Visitor Access - eVA)</p>
@@ -77,11 +75,9 @@ Welcome to the **M-Lab CARTE AI Workshop 2025** — a comprehensive 4-day progra
 <li>You now have Wi-Fi access for the day</li>
 </ol>
 
-<p style="margin-bottom: 0;"><em>⚠️ Note: Each day you need to re-authorize access by texting the new daily passcode, but you will use the same username and password credentials throughout. </em></p>
+<p style="margin-bottom: 0;"><em>Note: Each day you need to re-authorize access by texting the new daily passcode, but you will use the same username and password credentials throughout. </em></p>
 </details>
 </div>
-
----
 
 ## Workshop Overview
 
@@ -100,23 +96,6 @@ Develop 90-day pilot plans for your organization
 
 **Practice with Real Tools**  
 Work with interactive labs, coding sessions, and business case studies
-
----
-
-<div id="flowise-platform" style="margin: 24px 0; padding: 20px; background: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px;">
-<h3 style="margin-top: 0; color: #424242;">🔗 Flowise Platform Access</h3>
-<p>For <strong>Lab C</strong> (Visual Workflow Building) and <strong>Lab E</strong> (Advanced Agents), you will use the Flowise no-code AI workflow platform.</p>
-<p><strong>⚠️ Please use the Flowise instance assigned to your table number:</strong></p>
-<ul style="margin: 8px 0; padding-left: 24px;">
-<li><strong>Table 1:</strong> <a href="https://flowise1.carte.training/signin" target="_blank">flowise1.carte.training</a></li>
-<li><strong>Table 2:</strong> <a href="https://flowise2.carte.training/signin" target="_blank">flowise2.carte.training</a></li>
-<li><strong>Table 3:</strong> <a href="https://flowise3.carte.training/signin" target="_blank">flowise3.carte.training</a></li>
-<li><strong>Table 4:</strong> <a href="https://flowise4.carte.training/signin" target="_blank">flowise4.carte.training</a></li>
-<li><strong>Table 5:</strong> <a href="https://flowise5.carte.training/signin" target="_blank">flowise5.carte.training</a></li>
-</ul>
-</div>
-
----
 
 ## Workshop Schedule
 
@@ -137,14 +116,14 @@ Work with interactive labs, coding sessions, and business case studies
 
 | **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
 |----------|-------------|----------------|---------------|---------------|
-| **09:00** | **Lecture C:** Large Language Models | Transformer architecture • Training methodologies • Enterprise deployment | | |
+| **09:00** | **Lecture C:** Large Language Models | Transformer architecture • Training methodologies • Enterprise deployment | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_c_large_language_models.pdf) • [Embedding Visualizer](https://embedding.carte.training) | |
 | **10:45** | **Lab C:** Visual Workflow Building | System prompts • Reasoning models  • Retrieval-augmented generation | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_c_visual_workflow_building.pdf) • [Flowise Platform](#flowise-platform) • [Prompt Template](#lab-c-prompt-template) • [[note]](#ref1) | |
 | **13:00** | **Lecture D:** Beyond Text — Multimodal AI | Image • Video • Audio generation • Cross-modal applications | | |
 | **14:45** | **Lab D:** Multimodal Content Creation | Creative AI applications • Business use cases • Technical implementation | | |
 
 <div id="lab-c-prompt-template" style="margin: 16px 0; padding: 12px; background: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px;">
 <details>
-<summary style="cursor: pointer; font-weight: bold; margin-bottom: 8px;">📋 Lab C: System Prompt Template (click to expand)</summary>
+<summary style="cursor: pointer; font-weight: bold; margin-bottom: 8px;">Lab C: System Prompt Template (click to expand)</summary>
 <pre id="lab-c-prompt" style="background: white; padding: 12px; border-radius: 4px; overflow-x: auto;">Given the user question and history, construct a short string that can be used for searching a document store. Only generate the query, no meta comments, no explanation Example: Question: what are the events happening today? Query: today's event Example: Question: how about the address? Query: business address of the shop Question: {{ question }} Query:</pre>
 <button onclick="copyLabCPrompt(this)" style="padding: 8px 16px; cursor: pointer; background: #0066cc; color: white; border: none; border-radius: 4px; font-size: 14px; font-weight: 500; margin-top: 8px;">📋 Copy to Clipboard</button>
 </details>
@@ -179,20 +158,6 @@ Work with interactive labs, coding sessions, and business case studies
 
 **Day 4 Outcome:** Create a concrete 90-day pilot plan with expert guidance for AI initiatives in your organization.
 
----
-
-## Getting Started
-
-### **For Workshop Participants**
-
-**Preparation:**
-1. **Bookmark this page** — Central location for workshop materials and updates
-2. **Review preparation materials** — Review linked materials before the workshop
-3. **Technical requirements** — Bring a laptop with Google account access for labs
-4. **Focus areas** — Consider AI applications relevant to your organization
-
----
-
 ## Expert Support & Contact
 
 **Alex Olson** — *Workshop Director*  
@@ -210,6 +175,19 @@ Work with interactive labs, coding sessions, and business case studies
 *PhD Candidate, Interpretable Sequence Models, University of Toronto*
 
 ---
+
+<div id="flowise-platform" style="margin: 24px 0; padding: 20px; background: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px;">
+<h3 style="margin-top: 0; color: #424242;">Flowise Platform Access</h3>
+<p>For <strong>Lab C</strong> (Visual Workflow Building) and <strong>Lab E</strong> (Advanced Agents), you will use the Flowise no-code AI workflow platform.</p>
+<p><strong>Please use the Flowise instance assigned to your table number:</strong></p>
+<ul style="margin: 8px 0; padding-left: 24px;">
+<li><strong>Table 1:</strong> <a href="https://flowise1.carte.training/signin" target="_blank">flowise1.carte.training</a></li>
+<li><strong>Table 2:</strong> <a href="https://flowise2.carte.training/signin" target="_blank">flowise2.carte.training</a></li>
+<li><strong>Table 3:</strong> <a href="https://flowise3.carte.training/signin" target="_blank">flowise3.carte.training</a></li>
+<li><strong>Table 4:</strong> <a href="https://flowise4.carte.training/signin" target="_blank">flowise4.carte.training</a></li>
+<li><strong>Table 5:</strong> <a href="https://flowise5.carte.training/signin" target="_blank">flowise5.carte.training</a></li>
+</ul>
+</div>
 
 ## References
 
