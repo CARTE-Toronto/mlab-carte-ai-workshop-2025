@@ -54,6 +54,31 @@ Welcome to the **M-Lab CARTE AI Workshop 2025** — a comprehensive 4-day progra
 
 ---
 
+<div style="margin: 24px 0; padding: 20px; background: #e3f2fd; border-left: 4px solid #1976d2; border-radius: 4px;">
+<h3 style="margin-top: 0; color: #1565c0;">📶 Wi-Fi Access for Visitors</h3>
+
+<p><strong>Network:</strong> eduroam (via eduroam Visitor Access - eVA)</p>
+
+<p><strong>Daily Credentials (Last Updated: [DATE GOES HERE]):</strong></p>
+<ul style="margin: 8px 0;">
+<li><strong>Phone Number:</strong> <code>[PHONE NUMBER]</code></li>
+<li><strong>Daily Passcode:</strong> <code>[PASSCODE]</code></li>
+</ul>
+
+<p><strong>How to Connect:</strong></p>
+<ol style="margin: 8px 0;">
+<li>Text (SMS) the daily passcode to the phone number listed above</li>
+<li>You will receive a return SMS with your temporary username and password</li>
+<li>Select the <strong>"eduroam"</strong> Wi-Fi network on your device</li>
+<li>Login using the credentials you received via SMS</li>
+<li>You now have Wi-Fi access on all three U of T campuses for the day</li>
+</ol>
+
+<p style="margin-bottom: 0;"><em>⚠️ Note: You will need to request new credentials each day you require access to the eVA guest Wi-Fi network. The passcode is updated daily and can also be found on departmental electronic signage or by having a U of T faculty/staff member visit <a href="https://eva.eis.utoronto.ca" target="_blank">eva.eis.utoronto.ca</a> from the U of T network.</em></p>
+</div>
+
+---
+
 ## Workshop Overview
 
 This program covers AI fundamentals through advanced agentic AI systems, with practical applications for business implementation. The workshop combines lectures, labs, and strategic planning sessions to develop technical understanding and implementation strategies.
@@ -128,7 +153,7 @@ Work with interactive labs, coding sessions, and business case studies
 | **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
 |----------|-------------|----------------|---------------|---------------|
 | **09:00** | **Industry Expert Presentation:** AI Technology Evaluation & Investment | **Led by Eva Lau** (Co-Founder & GP, [Two Small Fish Ventures](https://twosmallfish.vc/)) | | |
-| **10:45** | **Lab E:** Advanced Agents | No-code agent creation • Workflow automation • Agent routing | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_e_agent_workflow_exercise.pdf) | |
+| **10:45** | **Lab E:** Advanced Agents | No-code agent creation • Workflow automation • Agent routing | [Worksheet](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_e_agent_workflow_exercise.pdf) | |
 | **13:00** | **Specialized Workshop:** Robotics & AI | **Led by Professor Chi-Guhn Lee and his research team** | | |
 
 **Day 3 Outcome:** Learn to evaluate AI startups and build autonomous agents for business applications.
