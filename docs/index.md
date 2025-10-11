@@ -16,6 +16,24 @@ layout: default
 }
 </style>
 
+<script>
+function copyLabCPrompt() {
+  const text = document.getElementById('lab-c-prompt').textContent;
+  navigator.clipboard.writeText(text).then(function() {
+    const btn = event.target;
+    const originalText = btn.textContent;
+    btn.textContent = '✓ Copied!';
+    btn.style.background = '#28a745';
+    setTimeout(function() {
+      btn.textContent = originalText;
+      btn.style.background = '#0066cc';
+    }, 2000);
+  }).catch(function(err) {
+    alert('Failed to copy text: ' + err);
+  });
+}
+</script>
+
 <div class="page-wrap">
   <nav class="page-toc" aria-label="Page navigation">
     <h3>Jump to</h3>
@@ -77,7 +95,7 @@ Work with interactive labs, coding sessions, and business case studies
 | **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
 |----------|-------------|----------------|---------------|---------------|
 | **09:00** | **Lecture C:** Large Language Models | Transformer architecture • Training methodologies • Enterprise deployment | | |
-| **10:45** | **Lab C:** Visual Workflow Building | System prompts • Reasoning models  • Retrieval-augmented generation | [[1]](#ref1) | |
+| **10:45** | **Lab C:** Visual Workflow Building | System prompts • Reasoning models  • Retrieval-augmented generation | [[1]](#ref1)<br><details><summary>📋 Prompt Template</summary><pre id="lab-c-prompt">Given the user question and history, construct a short string that can be used for searching a document store. Only generate the query, no meta comments, no explanation Example: Question: what are the events happening today? Query: today's event Example: Question: how about the address? Query: business address of the shop Question: {{ question }} Query:</pre><button onclick="copyLabCPrompt()" style="padding: 4px 12px; cursor: pointer; background: #0066cc; color: white; border: none; border-radius: 4px; font-size: 12px;">📋 Copy to Clipboard</button></details> | |
 | **13:00** | **Lecture D:** Beyond Text — Multimodal AI | Image • Video • Audio generation • Cross-modal applications | | |
 | **14:45** | **Lab D:** Multimodal Content Creation | Creative AI applications • Business use cases • Technical implementation | | |
 
