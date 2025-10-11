@@ -94,9 +94,21 @@ Work with interactive labs, coding sessions, and business case studies
 | **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
 |----------|-------------|----------------|---------------|---------------|
 | **09:00** | **Lecture C:** Large Language Models | Transformer architecture • Training methodologies • Enterprise deployment | | |
-| **10:45** | **Lab C:** Visual Workflow Building | System prompts • Reasoning models  • Retrieval-augmented generation | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_c_visual_workflow_building.pdf) • [[1]](#ref1) • [Prompt Template](#lab-c-prompt-template) | |
+| **10:45** | **Lab C:** Visual Workflow Building | System prompts • Reasoning models  • Retrieval-augmented generation | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_c_visual_workflow_building.pdf) • [Flowise Links](#lab-c-flowise) • [Prompt Template](#lab-c-prompt-template) • [[note]](#ref1) | |
 | **13:00** | **Lecture D:** Beyond Text — Multimodal AI | Image • Video • Audio generation • Cross-modal applications | | |
 | **14:45** | **Lab D:** Multimodal Content Creation | Creative AI applications • Business use cases • Technical implementation | | |
+
+<div id="lab-c-flowise" style="margin: 16px 0; padding: 12px; background: #fff3cd; border: 1px solid #ffc107; border-radius: 6px;">
+<strong>🔗 Lab C: Flowise Platform Access</strong><br>
+<em style="color: #856404;">⚠️ Please use the Flowise instance assigned to your table number:</em>
+<ul style="margin: 8px 0; padding-left: 24px;">
+<li><strong>Table 1:</strong> <a href="https://flowise1.carte.training/signin" target="_blank">flowise1.carte.training</a></li>
+<li><strong>Table 2:</strong> <a href="https://flowise2.carte.training/signin" target="_blank">flowise2.carte.training</a></li>
+<li><strong>Table 3:</strong> <a href="https://flowise3.carte.training/signin" target="_blank">flowise3.carte.training</a></li>
+<li><strong>Table 4:</strong> <a href="https://flowise4.carte.training/signin" target="_blank">flowise4.carte.training</a></li>
+<li><strong>Table 5:</strong> <a href="https://flowise5.carte.training/signin" target="_blank">flowise5.carte.training</a></li>
+</ul>
+</div>
 
 <div id="lab-c-prompt-template" style="margin: 16px 0; padding: 12px; background: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px;">
 <details>
