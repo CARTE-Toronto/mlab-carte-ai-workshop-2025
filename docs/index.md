@@ -94,7 +94,7 @@ Work with interactive labs, coding sessions, and business case studies
 | **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
 |----------|-------------|----------------|---------------|---------------|
 | **09:00** | **Lecture C:** Large Language Models | Transformer architecture • Training methodologies • Enterprise deployment | | |
-| **10:45** | **Lab C:** Visual Workflow Building | System prompts • Reasoning models  • Retrieval-augmented generation | [[1]](#ref1) • [Prompt Template](#lab-c-prompt-template) | |
+| **10:45** | **Lab C:** Visual Workflow Building | System prompts • Reasoning models  • Retrieval-augmented generation | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_c_visual_workflow_building.pdf) • [[1]](#ref1) • [Prompt Template](#lab-c-prompt-template) | |
 | **13:00** | **Lecture D:** Beyond Text — Multimodal AI | Image • Video • Audio generation • Cross-modal applications | | |
 | **14:45** | **Lab D:** Multimodal Content Creation | Creative AI applications • Business use cases • Technical implementation | | |
 
