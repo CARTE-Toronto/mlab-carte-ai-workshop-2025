@@ -8,3 +8,6 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 agents.md
+
+# Lab-generated files
+labs/energy_dataset_profile.html

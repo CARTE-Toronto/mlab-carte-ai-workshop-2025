@@ -91,9 +91,9 @@ This program covers AI fundamentals through advanced agentic AI systems, with pr
 | **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
 |----------|-------------|----------------|---------------|---------------|
 | **09:00** | **Lecture A:** AI Landscape Overview | ML • Deep Learning • Generative AI • Autonomous Agents | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_a_ai_landscape_overview.pdf) | |
-| **10:45** | **Lab A:** Exploratory Data Analysis | Data insights • Pattern recognition • Business intelligence | | |
+| **10:45** | **Lab A:** Exploratory Data Analysis | Python fundamentals • NumPy arrays • scikit-learn introduction • Visualization | [Open in Colab](https://colab.research.google.com/github/CARTE-Toronto/mlab-carte-ai-workshop-2025/blob/main/labs/lab_a_exploratory_data_analysis.ipynb) | |
 | **13:00** | **Lecture B:** Neural Networks & Optimization | Architecture fundamentals • Training strategies • Performance optimization | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_b_neural_networks_and_optimization.pdf) • [Neuron Visualizer](https://neuron.carte.training/) • [Gradient Descent Visualizer](https://gradient.carte.training/) | |
-| **14:45** | **Lab B:** Advanced Data Processing | Data preprocessing • Feature engineering • Quality assurance | | |
+| **14:45** | **Lab B:** Data Cleaning and Processing | Missing values • Normalization • One-hot encoding • Class imbalance | [Open in Colab](https://colab.research.google.com/github/CARTE-Toronto/mlab-carte-ai-workshop-2025/blob/main/labs/lab_b_data_cleaning_and_processing.ipynb) | |
 
 **Day 1 Outcome:** Learn foundational concepts and data handling techniques for modern AI applications.
 
@@ -117,8 +117,6 @@ This program covers AI fundamentals through advanced agentic AI systems, with pr
 
 **Day 2 Outcome:** Learn to build applications combining text, image, and audio generation for business use.
 
----
-
 ### **Day 3: Agentic AI & Technology Evaluation** — Thursday, October 16, 2025 {#day-3}
 *Autonomous systems and technology assessment*
 
@@ -129,8 +127,6 @@ This program covers AI fundamentals through advanced agentic AI systems, with pr
 | **13:00** | **Specialized Workshop:** Robotics & AI | **Led by Professor Chi-Guhn Lee and his research team** |
 
 **Day 3 Outcome:** Learn to evaluate AI startups and build autonomous agents for business applications.
-
----
 
 ### **Day 4: Implementation & Action Planning** — Friday, October 17, 2025 {#day-4}
 *Converting AI knowledge into business strategies*
@@ -159,8 +155,6 @@ This program covers AI fundamentals through advanced agentic AI systems, with pr
 [upadhyan.github.io](https://upadhyan.github.io/index.html)  
 [nakul.upadhya@mail.utoronto.ca](mailto:nakul.upadhya@mail.utoronto.ca)  
 *PhD Candidate, Interpretable Sequence Models, University of Toronto*
-
----
 
 <div id="flowise-platform" style="margin: 24px 0; padding: 20px; background: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px;">
 <h3 style="margin-top: 0; color: #424242;">Flowise Platform Access</h3>
