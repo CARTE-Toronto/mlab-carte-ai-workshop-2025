@@ -104,7 +104,7 @@ This program covers AI fundamentals through advanced agentic AI systems, with pr
 |----------|-------------|----------------|---------------|---------------|
 | **09:00** | **Lecture C:** Large Language Models | Transformer architecture • Training methodologies • Enterprise deployment | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_c_large_language_models.pdf) • [Embedding Visualizer](https://embedding.carte.training) | |
 | **10:45** | **Lab C:** Visual Workflow Building | System prompts • Reasoning models  • Retrieval-augmented generation | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_c_visual_workflow_building.pdf) • [Flowise Platform](#flowise-platform) • [Prompt Template](#lab-c-prompt-template) • [[note]](#ref1) | |
-| **13:00** | **Lecture D:** Beyond Text — Multimodal AI | Image • Video • Audio generation • Cross-modal applications | | |
+| **13:00** | **Lecture D:** Beyond Text — Multimodal AI | Image • Video • Audio generation • Cross-modal applications | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_d_beyond_text_and_multimodal_ai.pdf) • [Video Generation Demo](https://videogen.carte.training/) | |
 | **14:45** | **Lab D:** Multimodal Content Creation | Creative AI applications • Business use cases • Technical implementation | | |
 
 <div id="lab-c-prompt-template" style="margin: 16px 0; padding: 12px; background: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px;">
