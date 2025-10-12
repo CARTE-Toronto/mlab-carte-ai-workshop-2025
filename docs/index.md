@@ -122,11 +122,11 @@ This program covers AI fundamentals through advanced agentic AI systems, with pr
 ### **Day 3: Agentic AI & Technology Evaluation** — Thursday, October 16, 2025 {#day-3}
 *Autonomous systems and technology assessment*
 
-| **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
-|----------|-------------|----------------|---------------|---------------|
-| **09:00** | **Industry Expert Presentation:** AI Technology Evaluation & Investment | **Led by Eva Lau** (Co-Founder & GP, [Two Small Fish Ventures](https://twosmallfish.vc/)) | | |
-| **10:45** | **Lab E:** Advanced Agents | No-code agent creation • Workflow automation • Agent routing | [Worksheet](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_e_agent_workflow_exercise.pdf) • [Flowise Platform](#flowise-platform) | |
-| **13:00** | **Specialized Workshop:** Robotics & AI | **Led by Professor Chi-Guhn Lee and his research team** | | |
+| **Time** | **Session** | **Details** |
+|----------|-------------|---------------|
+| **09:00** | **Industry Expert Presentation:** AI Technology Evaluation & Investment | **Led by Eva Lau** (Co-Founder & GP, [Two Small Fish Ventures](https://twosmallfish.vc/)) |
+| **10:45** | **Lab E:** Advanced Agents | [Worksheet](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_e_agent_workflow_exercise.pdf) • [Flowise Platform](#flowise-platform) |
+| **13:00** | **Specialized Workshop:** Robotics & AI | **Led by Professor Chi-Guhn Lee and his research team** |
 
 **Day 3 Outcome:** Learn to evaluate AI startups and build autonomous agents for business applications.
 
