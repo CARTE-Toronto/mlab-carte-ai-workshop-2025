@@ -83,20 +83,6 @@ Wi-Fi Access for Visitors — Daily Code (Last Updated: [DATE GOES HERE]): <code
 
 This program covers AI fundamentals through advanced agentic AI systems, with practical applications for business implementation. The workshop combines lectures, labs, and strategic planning sessions to develop technical understanding and implementation strategies.
 
-### Learning Objectives
-
-**Learn Core AI Technologies**  
-Machine learning fundamentals through advanced generative AI and autonomous agent systems
-
-**Apply AI to Business**  
-Connect AI capabilities to business challenges and opportunities
-
-**Create Implementation Plans**  
-Develop 90-day pilot plans for your organization
-
-**Practice with Real Tools**  
-Work with interactive labs, coding sessions, and business case studies
-
 ## Workshop Schedule
 
 ### **Day 1: AI Foundation & Data Mastery** — Tuesday, October 14, 2025 {#day-1}
