@@ -86,26 +86,29 @@ This program covers AI fundamentals through advanced agentic AI systems, with pr
 ## Workshop Schedule
 
 ### **Day 1: AI Foundation & Data Mastery** — Tuesday, October 14, 2025 {#day-1}
-*Building foundational knowledge for advanced AI applications*
 
-| **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
-|----------|-------------|----------------|---------------|---------------|
-| **09:00** | **Lecture A:** AI Landscape Overview | ML • Deep Learning • Generative AI • Autonomous Agents | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_a_ai_landscape_overview.pdf) | |
-| **10:45** | **Lab A:** Exploratory Data Analysis | Python fundamentals • NumPy arrays • scikit-learn introduction • Visualization | [Open in Colab](https://colab.research.google.com/github/CARTE-Toronto/mlab-carte-ai-workshop-2025/blob/main/labs/lab_a_exploratory_data_analysis.ipynb) | |
-| **13:00** | **Lecture B:** Neural Networks & Optimization | Architecture fundamentals • Training strategies • Performance optimization | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_b_neural_networks_and_optimization.pdf) • [Neuron Visualizer](https://neuron.carte.training/) • [Gradient Descent Visualizer](https://gradient.carte.training/) | |
-| **14:45** | **Lab B:** Data Cleaning and Processing | Missing values • Normalization • One-hot encoding • Class imbalance | [Open in Colab](https://colab.research.google.com/github/CARTE-Toronto/mlab-carte-ai-workshop-2025/blob/main/labs/lab_b_data_cleaning_and_processing.ipynb) | |
-
-**Day 1 Outcome:** Learn foundational concepts and data handling techniques for modern AI applications.
+<!-- Recording column to add back later -->
+| **Time** | **Session** | **Focus Area** | **Materials** |
+|----------|-------------|----------------|---------------|
+| **09:00** | **Lecture A:** AI Landscape Overview | ML • Deep Learning • Generative AI • Autonomous Agents | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_a_ai_landscape_overview.pdf) |
+| **10:45** | **Lab A:** Exploratory Data Analysis | Python fundamentals • NumPy arrays • scikit-learn introduction • Visualization | [Open in Colab](https://colab.research.google.com/github/CARTE-Toronto/mlab-carte-ai-workshop-2025/blob/main/labs/lab_a_exploratory_data_analysis.ipynb) |
+| **13:00** | **Lecture B:** Neural Networks & Optimization | Architecture fundamentals • Training strategies • Performance optimization | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_b_neural_networks_and_optimization.pdf) • [Neuron Visualizer](https://neuron.carte.training/) • [Gradient Descent Visualizer](https://gradient.carte.training/) |
+| **14:45** | **Lab B:** Data Cleaning and Processing | Missing values • Normalization • One-hot encoding • Class imbalance | [Open in Colab](https://colab.research.google.com/github/CARTE-Toronto/mlab-carte-ai-workshop-2025/blob/main/labs/lab_b_data_cleaning_and_processing.ipynb) |
 
 ### **Day 2: Generative AI** — Wednesday, October 15, 2025 {#day-2}
-*Large language models and multimodal AI systems*
 
-| **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
-|----------|-------------|----------------|---------------|---------------|
-| **09:00** | **Lecture C:** Large Language Models | Transformer architecture • Training methodologies • Enterprise deployment | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_c_large_language_models.pdf) • [Embedding Visualizer](https://embedding.carte.training) | |
-| **10:45** | **Lab C:** Visual Workflow Building | System prompts • Reasoning models  • Retrieval-augmented generation | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_c_visual_workflow_building.pdf) • [Flowise Platform](#flowise-platform) • [Prompt Template](#lab-c-prompt-template) • [[note]](#ref1) | |
-| **13:00** | **Lecture D:** Beyond Text — Multimodal AI | Image • Video • Audio generation • Cross-modal applications | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_d_beyond_text_and_multimodal_ai.pdf) • [Video Generation Demo](https://videogen.carte.training/) | |
-| **14:45** | **Lab D:** Multimodal Content Creation | Creative AI applications • Business use cases • Technical implementation | | |
+<!-- Materials to add back:
+Lecture C: [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_c_large_language_models.pdf) • [Embedding Visualizer](https://embedding.carte.training)
+Lab C: [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_c_visual_workflow_building.pdf) • [Flowise Platform](#flowise-platform) • [Prompt Template](#lab-c-prompt-template) • [[note]](#ref1)
+Lecture D: [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_d_beyond_text_and_multimodal_ai.pdf) • [Video Generation Demo](https://videogen.carte.training/)
+Recording column to add back later
+-->
+| **Time** | **Session** | **Focus Area** |
+|----------|-------------|----------------|
+| **09:00** | **Lecture C:** Large Language Models | Transformer architecture • Training methodologies • Enterprise deployment |
+| **10:45** | **Lab C:** Visual Workflow Building | System prompts • Reasoning models  • Retrieval-augmented generation |
+| **13:00** | **Lecture D:** Beyond Text — Multimodal AI | Image • Video • Audio generation • Cross-modal applications |
+| **14:45** | **Lab D:** Multimodal Content Creation | Creative AI applications • Business use cases • Technical implementation |
 
 <div id="lab-c-prompt-template" style="margin: 16px 0; padding: 12px; background: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px;">
 <details>
@@ -115,30 +118,30 @@ This program covers AI fundamentals through advanced agentic AI systems, with pr
 </details>
 </div>
 
-**Day 2 Outcome:** Learn to build applications combining text, image, and audio generation for business use.
-
 ### **Day 3: Agentic AI & Technology Evaluation** — Thursday, October 16, 2025 {#day-3}
-*Autonomous systems and technology assessment*
 
+<!-- Links to add back:
+09:00 Eva Lau: • [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/assessing_startup_opportunities_in_the_ai_era.pdf)
+10:45 Lab E: [Worksheet](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_e_agent_workflow_exercise.pdf) • [Flowise Platform](#flowise-platform)
+-->
 | **Time** | **Session** | **Details** |
 |----------|-------------|---------------|
-| **09:00** | **Industry Expert Presentation:** AI Technology Evaluation & Investment | **Led by Eva Lau** (Co-Founder & GP, [Two Small Fish Ventures](https://twosmallfish.vc/)) • [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/assessing_startup_opportunities_in_the_ai_era.pdf) |
-| **10:45** | **Lab E:** Advanced Agents | [Worksheet](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_e_agent_workflow_exercise.pdf) • [Flowise Platform](#flowise-platform) |
+| **09:00** | **Industry Expert Presentation:** AI Technology Evaluation & Investment | **Led by Eva Lau** (Co-Founder & GP, [Two Small Fish Ventures](https://twosmallfish.vc/)) |
+| **10:45** | **Lab E:** Advanced Agents | |
 | **13:00** | **Specialized Workshop:** Robotics & AI | **Led by Professor Chi-Guhn Lee and his research team** |
 
-**Day 3 Outcome:** Learn to evaluate AI startups and build autonomous agents for business applications.
-
 ### **Day 4: Implementation & Action Planning** — Friday, October 17, 2025 {#day-4}
-*Converting AI knowledge into business strategies*
 
-| **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
-|----------|-------------|----------------|---------------|---------------|
-| **09:00** | **Lecture F:** Agentic Systems | Chain-of-Thought • Hallucination • Scalability | | |
-| **10:45** | **Lab F:** AI Safety & Ethics | Evaluation frameworks • Risk assessment • Quality assurance | | |
-| **13:00** | **Lecture G:** Multi-Agent System Orchestration | Routing • Communication protocols • Complex problem solving | | |
-| **14:45** | **Action Clinic:** 90-Day Implementation Roadmap | Strategy development • Team feedback • Executive presentation prep | [Canvas](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/action_clinic_canvas.pdf) | |
-
-**Day 4 Outcome:** Create a concrete 90-day pilot plan with expert guidance for AI initiatives in your organization.
+<!-- Materials to add back:
+14:45 Action Clinic: [Canvas](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/action_clinic_canvas.pdf)
+Recording column to add back later
+-->
+| **Time** | **Session** | **Focus Area** |
+|----------|-------------|----------------|
+| **09:00** | **Lecture F:** Agentic Systems | Chain-of-Thought • Hallucination • Scalability |
+| **10:45** | **Lab F:** AI Safety & Ethics | Evaluation frameworks • Risk assessment • Quality assurance |
+| **13:00** | **Lecture G:** Multi-Agent System Orchestration | Routing • Communication protocols • Complex problem solving |
+| **14:45** | **Action Clinic:** 90-Day Implementation Roadmap | Strategy development • Team feedback • Executive presentation prep |
 
 ## Expert Support & Contact
 
