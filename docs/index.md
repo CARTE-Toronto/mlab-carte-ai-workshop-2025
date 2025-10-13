@@ -105,6 +105,7 @@ Lab C: [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw
 Lecture D: [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_d_beyond_text_and_multimodal_ai.pdf) • [Video Generation Demo](https://videogen.carte.training/)
 Recording column to add back later
 -->
+
 | **Time** | **Session** | **Focus Area** |
 |----------|-------------|----------------|
 | **09:00** | **Lecture C:** Large Language Models | Transformer architecture • Training methodologies • Enterprise deployment |
@@ -130,6 +131,7 @@ Recording column to add back later
 09:00 Eva Lau: • [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/assessing_startup_opportunities_in_the_ai_era.pdf)
 10:45 Lab E: [Worksheet](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_e_agent_workflow_exercise.pdf) • [Flowise Platform](#flowise-platform)
 -->
+
 | **Time** | **Session** | **Details** |
 |----------|-------------|---------------|
 | **09:00** | **Industry Expert Presentation:** AI Technology Evaluation & Investment | **Led by Eva Lau** (Co-Founder & GP, [Two Small Fish Ventures](https://twosmallfish.vc/)) |
@@ -144,6 +146,7 @@ Recording column to add back later
 14:45 Action Clinic: [Canvas](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/action_clinic_canvas.pdf)
 Recording column to add back later
 -->
+
 | **Time** | **Session** | **Focus Area** |
 |----------|-------------|----------------|
 | **09:00** | **Lecture F:** Agentic Systems | Chain-of-Thought • Hallucination • Scalability |
