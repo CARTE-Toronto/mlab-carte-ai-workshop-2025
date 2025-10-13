@@ -122,7 +122,7 @@ This program covers AI fundamentals through advanced agentic AI systems, with pr
 
 | **Time** | **Session** | **Details** |
 |----------|-------------|---------------|
-| **09:00** | **Industry Expert Presentation:** AI Technology Evaluation & Investment | **Led by Eva Lau** (Co-Founder & GP, [Two Small Fish Ventures](https://twosmallfish.vc/)) |
+| **09:00** | **Industry Expert Presentation:** AI Technology Evaluation & Investment | **Led by Eva Lau** (Co-Founder & GP, [Two Small Fish Ventures](https://twosmallfish.vc/)) • [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/assessing_startup_opportunities_in_the_ai_era.pdf) |
 | **10:45** | **Lab E:** Advanced Agents | [Worksheet](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_e_agent_workflow_exercise.pdf) • [Flowise Platform](#flowise-platform) |
 | **13:00** | **Specialized Workshop:** Robotics & AI | **Led by Professor Chi-Guhn Lee and his research team** |
 
@@ -133,10 +133,10 @@ This program covers AI fundamentals through advanced agentic AI systems, with pr
 
 | **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
 |----------|-------------|----------------|---------------|---------------|
-| **09:00** | **Lecture F:** Agentic Systems Architecture | Multi-agent coordination • System design • Scalability considerations | | |
+| **09:00** | **Lecture F:** Agentic Systems | Chain-of-Thought • Hallucination • Scalability | | |
 | **10:45** | **Lab F:** AI Safety & Ethics | Evaluation frameworks • Risk assessment • Quality assurance | | |
-| **13:00** | **Lecture G:** Multi-Agent System Orchestration | Coordination patterns • Communication protocols • Complex problem solving | | |
-| **14:45** | **Action Clinic:** 90-Day Implementation Roadmap | Strategy development • Team feedback • Executive presentation prep | | |
+| **13:00** | **Lecture G:** Multi-Agent System Orchestration | Routing • Communication protocols • Complex problem solving | | |
+| **14:45** | **Action Clinic:** 90-Day Implementation Roadmap | Strategy development • Team feedback • Executive presentation prep | [Canvas](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/action_clinic_canvas.pdf) | |
 
 **Day 4 Outcome:** Create a concrete 90-day pilot plan with expert guidance for AI initiatives in your organization.
 
