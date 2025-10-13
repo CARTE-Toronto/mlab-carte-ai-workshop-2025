@@ -98,23 +98,15 @@ This program covers AI fundamentals through advanced agentic AI systems, with pr
 
 ### **Day 2: Generative AI** — Wednesday, October 15, 2025 {#day-2}
 
-*Materials will be released on Tuesday, October 14*
+<!-- Recording column to add back later -->
 
-<!-- Materials to add back:
-Lecture C: [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_c_large_language_models.pdf) • [Embedding Visualizer](https://embedding.carte.training)
-Lab C: [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_c_visual_workflow_building.pdf) • [Flowise Platform](#flowise-platform) • [Prompt Template](#lab-c-prompt-template) • [[note]](#ref1)
-Lecture D: [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_d_beyond_text_and_multimodal_ai.pdf) • [Video Generation Demo](https://videogen.carte.training/)
-Recording column to add back later
--->
+| **Time** | **Session** | **Focus Area** | **Materials** |
+|----------|-------------|----------------|---------------|
+| **09:00** | **Lecture C:** Large Language Models | Transformer architecture • Training methodologies • Enterprise deployment | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_c_large_language_models.pdf) • [Embedding Visualizer](https://embedding.carte.training) |
+| **10:45** | **Lab C:** Visual Workflow Building | System prompts • Reasoning models  • Retrieval-augmented generation | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_c_visual_workflow_building.pdf) • [Flowise Platform](#flowise-platform) • [Prompt Template](#lab-c-prompt-template) • [[note]](#ref1) |
+| **13:00** | **Lecture D:** Beyond Text — Multimodal AI | Image • Video • Audio generation • Cross-modal applications | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_d_beyond_text_and_multimodal_ai.pdf) • [Video Generation Demo](https://videogen.carte.training/) |
+| **14:45** | **Lab D:** Multimodal Content Creation | Creative AI applications • Business use cases • Technical implementation | [Worksheet](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_d_multimodal_content_generation.pdf) |
 
-| **Time** | **Session** | **Focus Area** |
-|----------|-------------|----------------|
-| **09:00** | **Lecture C:** Large Language Models | Transformer architecture • Training methodologies • Enterprise deployment |
-| **10:45** | **Lab C:** Visual Workflow Building | System prompts • Reasoning models  • Retrieval-augmented generation |
-| **13:00** | **Lecture D:** Beyond Text — Multimodal AI | Image • Video • Audio generation • Cross-modal applications |
-| **14:45** | **Lab D:** Multimodal Content Creation | Creative AI applications • Business use cases • Technical implementation |
-
-<!-- Lab C Prompt Template - to be uncommented when Day 2 materials are released
 <div id="lab-c-prompt-template" style="margin: 16px 0; padding: 12px; background: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px;">
 <details>
 <summary style="cursor: pointer; font-weight: bold; margin-bottom: 8px;">Lab C: System Prompt Template (click to expand)</summary>
@@ -122,7 +114,6 @@ Recording column to add back later
 <button onclick="copyLabCPrompt(this)" style="padding: 8px 16px; cursor: pointer; background: #0066cc; color: white; border: none; border-radius: 4px; font-size: 14px; font-weight: 500; margin-top: 8px;">📋 Copy to Clipboard</button>
 </details>
 </div>
--->
 
 ### **Day 3: Agentic AI & Technology Evaluation** — Thursday, October 16, 2025 {#day-3}
 
@@ -141,7 +132,7 @@ Recording column to add back later
 
 ### **Day 4: Implementation & Action Planning** — Friday, October 17, 2025 {#day-4}
 
-*Materials will be released on Thursday, October 16*
+*Materials will be released on Wednesday, October 15*
 
 <!-- Materials to add back:
 14:45 Action Clinic: [Canvas](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/action_clinic_canvas.pdf)
@@ -171,7 +162,6 @@ Recording column to add back later
 [nakul.upadhya@mail.utoronto.ca](mailto:nakul.upadhya@mail.utoronto.ca)  
 *PhD Candidate, Interpretable Sequence Models, University of Toronto*
 
-<!-- Flowise Platform Access - to be uncommented when Day 2 materials are released
 <div id="flowise-platform" style="margin: 24px 0; padding: 20px; background: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px;">
 <h3 style="margin-top: 0; color: #424242;">Flowise Platform Access</h3>
 <p>For <strong>Lab C</strong> (Visual Workflow Building) and <strong>Lab E</strong> (Advanced Agents), you will use the Flowise no-code AI workflow platform.</p>
@@ -188,7 +178,6 @@ Recording column to add back later
 ## References
 
 <a id="ref1"></a>[1] Lab C slides are partly adapted from [FlowiseAI: Agentic RAG Tutorial](https://docs.flowiseai.com/tutorials/agentic-rag)
--->
 
   </div>
 </div>
