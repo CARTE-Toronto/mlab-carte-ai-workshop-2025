@@ -88,6 +88,7 @@ This program covers AI fundamentals through advanced agentic AI systems, with pr
 ### **Day 1: AI Foundation & Data Mastery** — Tuesday, October 14, 2025 {#day-1}
 
 <!-- Recording column to add back later -->
+
 | **Time** | **Session** | **Focus Area** | **Materials** |
 |----------|-------------|----------------|---------------|
 | **09:00** | **Lecture A:** AI Landscape Overview | ML • Deep Learning • Generative AI • Autonomous Agents | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_a_ai_landscape_overview.pdf) |
