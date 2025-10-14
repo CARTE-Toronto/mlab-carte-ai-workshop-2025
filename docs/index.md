@@ -55,7 +55,7 @@ Welcome to the **M-Lab CARTE AI Workshop 2025** — a comprehensive 4-day progra
 <div style="margin: 24px 0; padding: 20px; background: #e3f2fd; border-left: 4px solid #1976d2; border-radius: 4px;">
 <details>
 <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em; color: #1565c0; margin-bottom: 12px;">
-Wi-Fi Access for Visitors — Daily Code (Last Updated: 2025-10-14): <code style="background: white; padding: 4px 8px; border-radius: 3px; color: #d32f2f; font-size: 1.2em;">53utoronto</code>
+Wi-Fi Access for Visitors — Daily Code (Last Updated: 2025-10-14): <code style="background: white; padding: 4px 8px; border-radius: 3px; color:rgb(30, 160, 48); font-size: 1.2em;">53utoronto</code>
 </summary>
 
 <p><strong>Network:</strong> eduroam (via eduroam Visitor Access - eVA)</p>
