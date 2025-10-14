@@ -20,14 +20,14 @@ $black: #000000;
 /* Use Trade Gothic fonts provided in assets */
 @font-face {
   font-family: 'Trade Gothic';
-  src: url('/assets/trade-gothic-lt-std.woff') format('woff');
+  src: url('trade-gothic-lt-std.woff') format('woff');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Trade Gothic';
-  src: url('/assets/trade-gothic-lt-bold.woff') format('woff');
+  src: url('trade-gothic-lt-bold.woff') format('woff');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
