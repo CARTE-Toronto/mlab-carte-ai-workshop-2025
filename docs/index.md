@@ -62,7 +62,7 @@ Wi-Fi Access for Visitors — Daily Code (Last Updated: 2025-10-14): <code style
 
 <p><strong>Daily Credentials:</strong></p>
 <ul style="margin: 8px 0;">
-<li><strong>Phone Number:</strong> <code>+1 (833) 338-7626</code></li>
+<li><strong>Phone Number:</strong> <code>+1 (833) 338-7626</code> <em style="color:#757575;">(This number remains the same every day)</em></li>
 <li><strong>Daily Passcode:</strong> <code>53utoronto</code></li>
 </ul>
 
