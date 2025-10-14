@@ -167,11 +167,11 @@ Recording column to add back later
 <p>For <strong>Lab C</strong> (Visual Workflow Building) and <strong>Lab E</strong> (Advanced Agents), you will use the Flowise no-code AI workflow platform.</p>
 <p><strong>Please use the Flowise instance assigned to your table number:</strong></p>
 <ul style="margin: 8px 0; padding-left: 24px;">
-<li><strong>Table 1:</strong> <a href="https://flowise1.carte.training/signin" target="_blank">flowise1.carte.training</a></li>
-<li><strong>Table 2:</strong> <a href="https://flowise2.carte.training/signin" target="_blank">flowise2.carte.training</a></li>
-<li><strong>Table 3:</strong> <a href="https://flowise3.carte.training/signin" target="_blank">flowise3.carte.training</a></li>
-<li><strong>Table 4:</strong> <a href="https://flowise4.carte.training/signin" target="_blank">flowise4.carte.training</a></li>
-<li><strong>Table 5:</strong> <a href="https://flowise5.carte.training/signin" target="_blank">flowise5.carte.training</a></li>
+<li><strong>Table 1:</strong> <a href="http://167.71.125.59" target="_blank">167.71.125.59</a></li>
+<li><strong>Table 2:</strong> <a href="http://178.128.14.96" target="_blank">178.128.14.96</a></li>
+<li><strong>Table 3:</strong> <a href="http://178.128.65.104" target="_blank">178.128.65.104</a></li>
+<li><strong>Table 4:</strong> <a href="http://138.68.30.233" target="_blank">138.68.30.233</a></li>
+<li><strong>Table 5:</strong> <a href="http://165.227.49.164" target="_blank">165.227.49.164</a></li>
 </ul>
 </div>
 
