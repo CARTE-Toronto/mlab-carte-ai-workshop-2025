@@ -100,14 +100,57 @@ This program covers AI fundamentals through advanced agentic AI systems, with pr
 |----------|-------------|----------------|---------------|---------------|
 | **09:00** | **Lecture C:** Large Language Models | Transformer architecture • Training methodologies • Enterprise deployment | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_c_large_language_models.pdf) • [Embedding Visualizer](https://word-embedding-visualizer-871047044699.us-west1.run.app) • [Transformer Explainer](https://poloclub.github.io/transformer-explainer/) • [TensorFlow Embedding Projector](https://projector.tensorflow.org/) • [Token Prediction Visualizer](https://gemini-token-predictor-871047044699.us-west1.run.app/) | [Watch](https://youtu.be/BJxgCXwvLVk) |
 | **10:45** | **Lab C:** Visual Workflow Building | System prompts • Reasoning models  • Retrieval-augmented generation | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_c_visual_workflow_building.pdf) • [Flowise Platform](#flowise-platform) • [Prompt Template](#lab-c-prompt-template) • [[note]](#ref1) | |
-| **13:00** | **Lecture D:** Beyond Text — Multimodal AI | Image • Video • Audio generation • Cross-modal applications | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_d_beyond_text_and_multimodal_ai.pdf) • [Video Generation Demo](https://generative-animation-explainer-871047044699.us-west1.run.app) • [Diffusion Explainer](https://poloclub.github.io/diffusion-explainer/) | |
-| **14:45** | **Lab D:** Multimodal Content Creation | Creative AI applications • Business use cases • Technical implementation | [Worksheet](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_d_multimodal_content_generation.pdf) [Link to Google AI Studio](https://aistudio.google.com/) • [Link to Video Generation with Google AI studio](https://aistudio.google.com/prompts/new_video) | |
+| **13:00** | **Lecture D:** Beyond Text — Multimodal AI | Image • Video • Audio generation • Cross-modal applications | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_d_beyond_text_and_multimodal_ai.pdf) • [Video Generation Demo](https://generative-animation-explainer-871047044699.us-west1.run.app) • [Diffusion Explainer](https://poloclub.github.io/diffusion-explainer/) | [Watch](https://youtu.be/9CjBZ4bHz9A) |
+| **14:45** | **Lab D:** Multimodal Content Creation | Creative AI applications • Business use cases • Technical implementation | [Worksheet](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_d_multimodal_content_generation.pdf) • [Link to Google AI Studio](https://aistudio.google.com/) • [Link to Video Generation with Google AI studio](https://aistudio.google.com/prompts/new_video) • [NotebookLM AI Generated Video](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/assets/Neural_Text-to-Speech.mp4) | |
 
 <div id="lab-c-prompt-template" style="margin: 16px 0; padding: 12px; background: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px;">
 <details>
 <summary style="cursor: pointer; font-weight: bold; margin-bottom: 8px;">Lab C: System Prompt Template (click to expand)</summary>
 <pre id="lab-c-prompt" style="background: white; padding: 12px; border-radius: 4px; overflow-x: auto;">Given the user question and history, construct a short string that can be used for searching a document store. Only generate the query, no meta comments, no explanation Example: Question: what are the events happening today? Query: today's event Example: Question: how about the address? Query: business address of the shop Question: {{ question }} Query:</pre>
 <button onclick="copyLabCPrompt(this)" style="padding: 8px 16px; cursor: pointer; background: #0066cc; color: white; border: none; border-radius: 4px; font-size: 14px; font-weight: 500; margin-top: 8px;">📋 Copy to Clipboard</button>
+</details>
+</div>
+
+<div id="lab-d-outputs" style="margin: 16px 0; padding: 12px; background: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px;">
+<details>
+<summary style="cursor: pointer; font-weight: bold; margin-bottom: 8px;">Lab D: Team Outputs — Multimodal Content Gallery (click to expand)</summary>
+<div style="background: white; padding: 12px; border-radius: 4px;">
+
+<h4 style="margin-top: 0;">Table 1</h4>
+<ul>
+<li><a href="https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/lab-d-output/Table%201/Generated%20File%20October%2015%2C%202025%20-%203_24PM.mp4" target="_blank">Video 1</a></li>
+<li><a href="https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/lab-d-output/Table%201/Generated%20Image%20October%2015%2C%202025%20-%203_00PM.png" target="_blank">Image 1</a></li>
+<li><a href="https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/lab-d-output/Table%201/Generated%20Image%20October%2015%2C%202025%20-%203_11PM.png" target="_blank">Image 2</a></li>
+</ul>
+
+<h4>Table 2</h4>
+<ul>
+<li><a href="https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/lab-d-output/Table%202/MovieAd.mp4" target="_blank">Video 1</a></li>
+<li><a href="https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/lab-d-output/Table%202/PosterAdpng.png" target="_blank">Image 1</a></li>
+</ul>
+
+<h4>Table 3</h4>
+<ul>
+<li><a href="https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/lab-d-output/Table%203/Generated%20File%20October%2015%2C%202025%20-%2012_13PM%20(1).mp4" target="_blank">Video 1</a></li>
+<li><a href="https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/lab-d-output/Table%203/Image.png" target="_blank">Image 1</a></li>
+<li><a href="https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/lab-d-output/Table%203/Terran%20Nature%20Lamp.png" target="_blank">Image 2</a></li>
+</ul>
+
+<h4>Table 4</h4>
+<ul>
+<li><a href="https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/lab-d-output/Table%204/20251015_1517_01k7mmjm6nfqs96sf2zcmdqwbs.mp4" target="_blank">Video 1</a></li>
+<li><a href="https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/lab-d-output/Table%204/20251015_1527_01k7mnc9p0fb9tpbe8gcxqqpx4.mp4" target="_blank">Video 2</a></li>
+<li><a href="https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/lab-d-output/Table%204/a_video_based_on_this_info_product.mp4" target="_blank">Video 3</a></li>
+</ul>
+
+<h4>Table 5</h4>
+<ul>
+<li><a href="https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/lab-d-output/Table%205/Video.mp4" target="_blank">Video 1</a></li>
+<li><a href="https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/lab-d-output/Table%205/Logo.png" target="_blank">Image 1</a></li>
+<li><a href="https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/lab-d-output/Table%205/Poster.png" target="_blank">Image 2</a></li>
+</ul>
+
+</div>
 </details>
 </div>
 
