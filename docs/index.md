@@ -156,11 +156,6 @@ This program covers AI fundamentals through advanced agentic AI systems, with pr
 
 ### **Day 3: Agentic AI & Technology Evaluation** — Thursday, October 16, 2025 {#day-3}
 
-<!-- Links to add back:
-09:00 Eva Lau: • [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/assessing_startup_opportunities_in_the_ai_era.pdf)
-10:45 Lab E: [Worksheet](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_e_agent_workflow_exercise.pdf) • [Flowise Platform](#flowise-platform)
--->
-
 | **Time** | **Session** | **Details** |
 |----------|-------------|---------------|
 | **09:00** | **Industry Expert Presentation:** AI Technology Evaluation & Investment | **Led by Eva Lau** (Co-Founder & GP, [Two Small Fish Ventures](https://twosmallfish.vc/)) • [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/assessing_startup_opportunities_in_the_ai_era.pdf) |
@@ -169,15 +164,10 @@ This program covers AI fundamentals through advanced agentic AI systems, with pr
 
 ### **Day 4: Implementation & Action Planning** — Friday, October 17, 2025 {#day-4}
 
-<!-- Materials to add back:
-14:45 Action Clinic: [Canvas](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/action_clinic_canvas.pdf)
-Recording column to add back later
--->
-
 | **Time** | **Session** | **Focus Area** | **Materials** |
 |----------|-------------|----------------| ------------- |
 | **09:00** | **Lecture F:** Agentic Systems | Chain-of-Thought • Hallucination • Scalability | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_f_agentic_systems.pdf) |
-| **10:45** | **Lab F:** AI Safety & Ethics | Evaluation frameworks • Risk assessment • Quality assurance | |
+| **10:45** | **Lab F:** AI Safety & Ethics | Evaluation frameworks • Risk assessment • Quality assurance | [Worksheet](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_f_safety_workshop.pdf) • [Resumés](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/assets/Resumes.zip) |
 | **13:00** | **Lecture G:** Multi-Agent System Orchestration | Routing • Communication protocols • Complex problem solving | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_g_multi_agent_system_orchestration.pdf) |
 | **14:45** | **Action Clinic:** 90-Day Implementation Roadmap | Strategy development • Team feedback • Executive presentation prep | [Canvas](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/action_clinic_canvas.pdf)|
 
