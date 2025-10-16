@@ -55,7 +55,7 @@ Welcome to the **M-Lab CARTE AI Workshop 2025** — a comprehensive 4-day progra
 <div style="margin: 24px 0; padding: 20px; background: #e3f2fd; border-left: 4px solid #1976d2; border-radius: 4px;">
 <details>
 <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em; color: #1565c0; margin-bottom: 12px;">
-Wi-Fi Access for Visitors — Daily Code (Last Updated: 2025-10-15): <code style="background: white; padding: 4px 8px; border-radius: 3px; color:rgb(30, 160, 48); font-size: 1.2em;">utoronto94</code>
+Wi-Fi Access for Visitors — Daily Code (Last Updated: 2025-10-16): <code style="background: white; padding: 4px 8px; border-radius: 3px; color:rgb(30, 160, 48); font-size: 1.2em;">42utoronto</code>
 </summary>
 
 <p><strong>Network:</strong> eduroam (via eduroam Visitor Access - eVA)</p>
@@ -63,7 +63,7 @@ Wi-Fi Access for Visitors — Daily Code (Last Updated: 2025-10-15): <code style
 <p><strong>Daily Credentials:</strong></p>
 <ul style="margin: 8px 0;">
 <li><strong>Phone Number:</strong> <code>+1 (833) 338-7626</code> <em style="color:#757575;">(This number remains the same every day)</em></li>
-<li><strong>Daily Passcode:</strong> <code>utoronto94</code></li>
+<li><strong>Daily Passcode:</strong> <code>42utoronto</code></li>
 </ul>
 
 <p><strong>How to Connect:</strong></p>
