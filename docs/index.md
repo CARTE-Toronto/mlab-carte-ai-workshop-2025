@@ -156,8 +156,6 @@ This program covers AI fundamentals through advanced agentic AI systems, with pr
 
 ### **Day 3: Agentic AI & Technology Evaluation** — Thursday, October 16, 2025 {#day-3}
 
-*Materials will be released on Wednesday, October 15*
-
 <!-- Links to add back:
 09:00 Eva Lau: • [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/assessing_startup_opportunities_in_the_ai_era.pdf)
 10:45 Lab E: [Worksheet](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_e_agent_workflow_exercise.pdf) • [Flowise Platform](#flowise-platform)
@@ -165,13 +163,11 @@ This program covers AI fundamentals through advanced agentic AI systems, with pr
 
 | **Time** | **Session** | **Details** |
 |----------|-------------|---------------|
-| **09:00** | **Industry Expert Presentation:** AI Technology Evaluation & Investment | **Led by Eva Lau** (Co-Founder & GP, [Two Small Fish Ventures](https://twosmallfish.vc/)) |
-| **10:45** | **Lab E:** Advanced Agents | Agentic workflows • Tool integration • Autonomous decision-making |
+| **09:00** | **Industry Expert Presentation:** AI Technology Evaluation & Investment | **Led by Eva Lau** (Co-Founder & GP, [Two Small Fish Ventures](https://twosmallfish.vc/)) • [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/assessing_startup_opportunities_in_the_ai_era.pdf) |
+| **10:45** | **Lab E:** Advanced Agents | Agentic workflows • Tool integration • Autonomous decision-making • [Worksheet](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_e_agent_workflow_exercise.pdf) |
 | **13:00** | **Specialized Workshop:** Robotics & AI | **Led by Professor Chi-Guhn Lee and his research team** |
 
 ### **Day 4: Implementation & Action Planning** — Friday, October 17, 2025 {#day-4}
-
-*Materials will be released on Wednesday, October 15*
 
 <!-- Materials to add back:
 14:45 Action Clinic: [Canvas](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/action_clinic_canvas.pdf)
