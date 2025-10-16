@@ -99,7 +99,7 @@ This program covers AI fundamentals through advanced agentic AI systems, with pr
 | **Time** | **Session** | **Focus Area** | **Materials** | **Recording** |
 |----------|-------------|----------------|---------------|---------------|
 | **09:00** | **Lecture C:** Large Language Models | Transformer architecture • Training methodologies • Enterprise deployment | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_c_large_language_models.pdf) • [Embedding Visualizer](https://word-embedding-visualizer-871047044699.us-west1.run.app) • [Transformer Explainer](https://poloclub.github.io/transformer-explainer/) • [TensorFlow Embedding Projector](https://projector.tensorflow.org/) • [Token Prediction Visualizer](https://gemini-token-predictor-871047044699.us-west1.run.app/) | [Watch](https://youtu.be/BJxgCXwvLVk) |
-| **10:45** | **Lab C:** Visual Workflow Building | System prompts • Reasoning models  • Retrieval-augmented generation | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_c_visual_workflow_building.pdf) • [Flowise Platform](#flowise-platform) • [Prompt Template](#lab-c-prompt-template) • [[note]](#ref1) | |
+| **10:45** | **Lab C:** Visual Workflow Building | System prompts • Reasoning models  • Retrieval-augmented generation | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_c_visual_workflow_building.pdf) • [Prompt Template](#lab-c-prompt-template) • [[note]](#ref1) | |
 | **13:00** | **Lecture D:** Beyond Text — Multimodal AI | Image • Video • Audio generation • Cross-modal applications | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_d_beyond_text_and_multimodal_ai.pdf) • [Video Generation Demo](https://generative-animation-explainer-871047044699.us-west1.run.app) • [Diffusion Explainer](https://poloclub.github.io/diffusion-explainer/) | [Watch](https://youtu.be/9CjBZ4bHz9A) |
 | **14:45** | **Lab D:** Multimodal Content Creation | Creative AI applications • Business use cases • Technical implementation | [Worksheet](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_d_multimodal_content_generation.pdf) • [Link to Google AI Studio](https://aistudio.google.com/) • [Link to Video Generation with Google AI studio](https://aistudio.google.com/prompts/new_video) • [NotebookLM AI Generated Video](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/assets/Neural_Text-to-Speech.mp4) | |
 
@@ -196,19 +196,6 @@ Recording column to add back later
 [upadhyan.github.io](https://upadhyan.github.io/index.html)  
 [nakul.upadhya@mail.utoronto.ca](mailto:nakul.upadhya@mail.utoronto.ca)  
 *PhD Candidate, Interpretable Sequence Models, University of Toronto*
-
-<div id="flowise-platform" style="margin: 24px 0; padding: 20px; background: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px;">
-<h3 style="margin-top: 0; color: #424242;">Flowise Platform Access</h3>
-<p>For <strong>Lab C</strong> (Visual Workflow Building) and <strong>Lab E</strong> (Advanced Agents), you will use the Flowise no-code AI workflow platform.</p>
-<p><strong>Please use the Flowise instance assigned to your table number:</strong></p>
-<ul style="margin: 8px 0; padding-left: 24px;">
-<li><strong>Table 1:</strong> <a href="http://167.71.125.59" target="_blank">167.71.125.59</a></li>
-<li><strong>Table 2:</strong> <a href="http://178.128.14.96" target="_blank">178.128.14.96</a></li>
-<li><strong>Table 3:</strong> <a href="http://178.128.65.104" target="_blank">178.128.65.104</a></li>
-<li><strong>Table 4:</strong> <a href="http://138.68.30.233" target="_blank">138.68.30.233</a></li>
-<li><strong>Table 5:</strong> <a href="http://165.227.49.164" target="_blank">165.227.49.164</a></li>
-</ul>
-</div>
 
 ## References
 
