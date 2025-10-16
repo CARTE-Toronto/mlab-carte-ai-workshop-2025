@@ -176,10 +176,10 @@ Recording column to add back later
 
 | **Time** | **Session** | **Focus Area** | **Materials** |
 |----------|-------------|----------------| ------------- |
-| **09:00** | **Lecture F:** Agentic Systems | Chain-of-Thought • Hallucination • Scalability | [Slides](ttps://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_f_agentic_systems.pdf) |
+| **09:00** | **Lecture F:** Agentic Systems | Chain-of-Thought • Hallucination • Scalability | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_f_agentic_systems.pdf) |
 | **10:45** | **Lab F:** AI Safety & Ethics | Evaluation frameworks • Risk assessment • Quality assurance | |
-| **13:00** | **Lecture G:** Multi-Agent System Orchestration | Routing • Communication protocols • Complex problem solving | [Slides](ttps://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_g_multi_agent_system_orchestration.pdf) |
-| **14:45** | **Action Clinic:** 90-Day Implementation Roadmap | Strategy development • Team feedback • Executive presentation prep | [Canvas](ttps://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/action_clinic_canvas.pdf)|
+| **13:00** | **Lecture G:** Multi-Agent System Orchestration | Routing • Communication protocols • Complex problem solving | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_g_multi_agent_system_orchestration.pdf) |
+| **14:45** | **Action Clinic:** 90-Day Implementation Roadmap | Strategy development • Team feedback • Executive presentation prep | [Canvas](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/action_clinic_canvas.pdf)|
 
 ## Expert Support & Contact
 
