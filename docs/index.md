@@ -55,7 +55,7 @@ Welcome to the **M-Lab CARTE AI Workshop 2025** — a comprehensive 4-day progra
 <div style="margin: 24px 0; padding: 20px; background: #e3f2fd; border-left: 4px solid #1976d2; border-radius: 4px;">
 <details>
 <summary style="cursor: pointer; font-weight: bold; font-size: 1.1em; color: #1565c0; margin-bottom: 12px;">
-Wi-Fi Access for Visitors — Daily Code (Last Updated: 2025-10-16): <code style="background: white; padding: 4px 8px; border-radius: 3px; color:rgb(30, 160, 48); font-size: 1.2em;">42utoronto</code>
+Wi-Fi Access for Visitors — Daily Code (Last Updated: 2025-10-17): <code style="background: white; padding: 4px 8px; border-radius: 3px; color:rgb(30, 160, 48); font-size: 1.2em;">utoronto88</code>
 </summary>
 
 <p><strong>Network:</strong> eduroam (via eduroam Visitor Access - eVA)</p>
@@ -63,7 +63,7 @@ Wi-Fi Access for Visitors — Daily Code (Last Updated: 2025-10-16): <code style
 <p><strong>Daily Credentials:</strong></p>
 <ul style="margin: 8px 0;">
 <li><strong>Phone Number:</strong> <code>+1 (833) 338-7626</code> <em style="color:#757575;">(This number remains the same every day)</em></li>
-<li><strong>Daily Passcode:</strong> <code>42utoronto</code></li>
+<li><strong>Daily Passcode:</strong> <code>utoronto88</code></li>
 </ul>
 
 <p><strong>How to Connect:</strong></p>
@@ -167,7 +167,7 @@ This program covers AI fundamentals through advanced agentic AI systems, with pr
 | **Time** | **Session** | **Focus Area** | **Materials** |
 |----------|-------------|----------------| ------------- |
 | **09:00** | **Lecture F:** Agentic Systems | Chain-of-Thought • Hallucination • Scalability | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_f_agentic_systems.pdf) |
-| **10:45** | **Lab F:** AI Safety & Ethics | Evaluation frameworks • Risk assessment • Quality assurance | [Worksheet](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_f_safety_workshop.pdf) • [Resumés](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/assets/Resumes.zip) |
+| **10:45** | **Lab F:** AI Safety & Ethics | Evaluation frameworks • Risk assessment • Quality assurance |[Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_f_ai_safety_and_ethics.pdf) • [Worksheet](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lab_f_safety_workshop.pdf) • [Resumés (Zip File)](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/assets/Resumes.zip) |
 | **13:00** | **Lecture G:** Multi-Agent System Orchestration | Routing • Communication protocols • Complex problem solving | [Slides](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/lecture_g_multi_agent_system_orchestration.pdf) • [Multi-Agent AI Systems Demo](https://multi-agent-ai-systems-871047044699.us-west1.run.app) |
 | **14:45** | **Action Clinic:** 90-Day Implementation Roadmap | Strategy development • Team feedback • Executive presentation prep | [Canvas](https://github.com/CARTE-Toronto/mlab-carte-ai-workshop-2025/raw/main/slides/action_clinic_canvas.pdf)|
 
