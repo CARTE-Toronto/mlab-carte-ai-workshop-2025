@@ -46,42 +46,23 @@ function copyLabCPrompt(btn) {
 
   <div class="page-content-body" markdown="1">
 
-Welcome to the **M-Lab CARTE AI Workshop 2025** — a comprehensive 4-day program covering artificial intelligence and its business applications.
+Thank you for joining the **M-Lab CARTE AI Workshop 2025**. This site now serves as the post-workshop archive so you can revisit lectures, labs, and reference materials at your own pace.
 
 **Workshop Dates:** Tuesday, October 14 to Friday, October 17 2025  
-**Location:** [800 Bay Street](https://maps.app.goo.gl/aStqyNu9qWBmrM7f9), Second Floor, Room 229A  
-**Presented by:** [Centre for Analytics and AI Engineering (CARTE)](https://carte.utoronto.ca), University of Toronto  
+**Hosted by:** [Centre for Analytics and AI Engineering (CARTE)](https://carte.utoronto.ca), University of Toronto  
 
-<div style="margin: 24px 0; padding: 20px; background: #e3f2fd; border-left: 4px solid #1976d2; border-radius: 4px;">
-<details>
-<summary style="cursor: pointer; font-weight: bold; font-size: 1.1em; color: #1565c0; margin-bottom: 12px;">
-Wi-Fi Access for Visitors — Daily Code (Last Updated: 2025-10-17): <code style="background: white; padding: 4px 8px; border-radius: 3px; color:rgb(30, 160, 48); font-size: 1.2em;">utoronto88</code>
-</summary>
-
-<p><strong>Network:</strong> eduroam (via eduroam Visitor Access - eVA)</p>
-
-<p><strong>Daily Credentials:</strong></p>
-<ul style="margin: 8px 0;">
-<li><strong>Phone Number:</strong> <code>+1 (833) 338-7626</code> <em style="color:#757575;">(This number remains the same every day)</em></li>
-<li><strong>Daily Passcode:</strong> <code>utoronto88</code></li>
-</ul>
-
-<p><strong>How to Connect:</strong></p>
-<ol style="margin: 8px 0;">
-<li><strong>First time:</strong> Text (SMS) the daily passcode to the phone number listed above</li>
-<li>You will receive a return SMS with your username and password (these stay the same throughout the workshop)</li>
-<li>Select the <strong>"eduroam"</strong> Wi-Fi network on your device</li>
-<li>Login using the credentials you received via SMS</li>
-<li>You now have Wi-Fi access for the day</li>
-</ol>
-
-<p style="margin-bottom: 0;"><em>Note: Each day you need to re-authorize access by texting the new daily passcode, but you will use the same username and password credentials throughout. </em></p>
-</details>
-</div>
+Use the schedule below to jump directly to recordings, slides, and lab notebooks. For local setup tips and downloading materials in bulk, see the repository `README.md`.
 
 ## Workshop Overview
 
-This program covers AI fundamentals through advanced agentic AI systems, with practical applications for business implementation. The workshop combines lectures, labs, and strategic planning sessions to develop technical understanding and implementation strategies.
+This program covers AI fundamentals through advanced agentic AI systems, with practical applications for business implementation. The recordings, labs, and worksheets remain available for self-guided refreshers and team knowledge transfer.
+
+### Post-Workshop Tips
+
+- Start with the recorded lectures to recap core ideas, then work through the matching labs.
+- Each lab notebook includes practice prompts (kept as TODOs) plus solution callouts where available.
+- Need a quick refresher? Download the PDF versions in `labs/` for offline reference.
+- Share questions or success stories with the CARTE team—contact details are at the bottom of this page.
 
 ## Workshop Schedule
 
